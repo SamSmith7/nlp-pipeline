@@ -1,0 +1,2880 @@
+news_headline,news_article,news_category,full_text,clean_text,chunked_text
+OPPO launches the new F11 Pro with 48MP+5MP Dual Rear Camera,"The all-new OPPO F11 Pro enables users to capture low light moments with its AI Driven 48MP+5MP rear camera. It features Panoramic Screen Display and VOOC 3.0 taking the flash charging technology a step ahead. The smartphone is also powered by P70 chipset for faster, smarter and more robust performance.",technology,"OPPO launches the new F11 Pro with 48MP+5MP Dual Rear Camera. The all-new OPPO F11 Pro enables users to capture low light moments with its AI Driven 48MP+5MP rear camera. It features Panoramic Screen Display and VOOC 3.0 taking the flash charging technology a step ahead. The smartphone is also powered by P70 chipset for faster, smarter and more robust performance.",oppo launch new f11 pro 48mp5mp dual rear camera new oppo f11 pro enable user capture low light moment ai driven 48mp5mp rear camera feature panoramic screen display vooc 3 0 take flash charge technology step ahead smartphone also power p70 chipset faster smart robust performance,"(S
+  (NP OPPO/NNP)
+  (VP launches/VBZ)
+  (NP
+    new/JJ
+    F11/NNP
+    Pro/NNP
+    48MP+5MP/CD
+    Dual/NNP
+    Rear/NNP
+    Camera./NNP
+    all-new/JJ
+    OPPO/NNP
+    F11/NNP
+    Pro/NNP)
+  (VP enables/VBZ)
+  (NP users/NNS)
+  (VP capture/VBP)
+  (NP
+    low/JJ
+    light/JJ
+    moments/NNS
+    AI/NNP
+    Driven/NNP
+    48MP+5MP/CD
+    rear/NN
+    camera./NN
+    features/NNS
+    Panoramic/NNP
+    Screen/NNP
+    Display/NNP
+    VOOC/NNP
+    3.0/CD)
+  (VP taking/VBG)
+  (NP flash/JJ charging/VBG technology/NN step/NN)
+  (VP ahead./VBP)
+  (NP smartphone/NN)
+  also/RB
+  (VP powered/VBD)
+  (NP P70/NNP chipset/NN)
+  faster/RBR
+  ,/,
+  smarter/RBR
+  (NP robust/JJ performance/NN)
+  ./.)"
+OnePlus March Madness campaign offers various deals on OnePlus 6T,"OnePlus announced the 'March Madness' campaign, as a part of which OnePlus 6T will be available with several offers across Amazon.in, OnePlus.in, Reliance Digital outlets, Croma outlets and OnePlus offline stores. The offers include no-cost EMI up to 6 months and ₹2000 discount on exchange among various others. Additionally, it will offer special giveaways in the form of accessories bundles.",technology,"OnePlus March Madness campaign offers various deals on OnePlus 6T. OnePlus announced the 'March Madness' campaign, as a part of which OnePlus 6T will be available with several offers across Amazon.in, OnePlus.in, Reliance Digital outlets, Croma outlets and OnePlus offline stores. The offers include no-cost EMI up to 6 months and ₹2000 discount on exchange among various others. Additionally, it will offer special giveaways in the form of accessories bundles.",oneplus march madness campaign offer various deal oneplus 6 oneplus announce march madness campaign part oneplus 6 available several offer across amazon oneplus reliance digital outlet croma outlet oneplus offline store offer include no cost emi 6 month 2000 discount exchange among various additionally offer special giveaway form accessory bundle,"(S
+  OnePlus/CC
+  (NP March/NNP Madness/NNP campaign/NN)
+  (VP offers/VBZ)
+  (NP various/JJ deals/NNS)
+  OnePlus/CC
+  (NP 6T./CD OnePlus/NN)
+  (VP announced/VBD)
+  (NP March/NNP Madness/NNP campaign/NN)
+  ,/,
+  (NP part/NN OnePlus/NNP 6T/CD available/JJ several/JJ offers/NNS)
+  (PP across/IN)
+  (NP Amazon.in/NNP)
+  ,/,
+  (NP OnePlus.in/NNP)
+  ,/,
+  (NP Reliance/NNP Digital/NNP outlets/NNS)
+  ,/,
+  (NP Croma/NNP)
+  (VP outlets/VBZ)
+  (NP OnePlus/NNP offline/NN stores./NN offers/NNS)
+  (VP include/VBP)
+  (NP
+    no-cost/JJ
+    EMI/NNP
+    6/CD
+    months/NNS
+    2000/CD
+    discount/NN
+    exchange/NN)
+  (PP among/IN)
+  (NP various/JJ others./NNS)
+  Additionally/RB
+  ,/,
+  (VP offer/VBP)
+  (NP special/JJ giveaways/NNS form/NN accessories/NNS bundles/NNS)
+  ./.)"
+Google finds it paid men less than women for the same job,"Google in its own internal audit found the company was paying men working as Level 4 Software Engineers ""less discretionary funds than women"" in the same role in 2018. Google ended up paying $9.7 million in pay adjustments to 10,677 employees during the year, which included new employees. However, Google did not specify how many of these employees were men.",technology,"Google finds it paid men less than women for the same job. Google in its own internal audit found the company was paying men working as Level 4 Software Engineers ""less discretionary funds than women"" in the same role in 2018. Google ended up paying $9.7 million in pay adjustments to 10,677 employees during the year, which included new employees. However, Google did not specify how many of these employees were men.",google find pay man less woman job google internal audit find company pay man work level 4 software engineer less discretionary fund woman role 2018 google end pay 9 7 million pay adjustment 10677 employee year include new employee however google not specify many employee man,"(S
+  (NP Google/NNP)
+  (VP finds/VBZ paid/VBN)
+  (NP men/NNS less/RBR women/NNS)
+  (VP job./VBP)
+  (NP Google/NNP internal/JJ audit/NN)
+  (VP found/VBD)
+  (NP company/NN paying/VBG men/NNS)
+  (VP working/VBG)
+  (NP Level/NNP 4/CD Software/NNP Engineers/NNPS ""/NNP)
+  less/CC
+  (NP discretionary/JJ funds/NNS women/NNS)
+  (VP ""/VBP)
+  (NP role/NN 2018./CD Google/NNP)
+  (VP ended/VBD paying/VBG)
+  (NP
+    $/$
+    9.7/CD
+    million/CD
+    pay/NN
+    adjustments/NNS
+    10,677/CD
+    employees/NNS
+    year/NN)
+  ,/,
+  (VP included/VBD)
+  (NP new/JJ employees./NN)
+  However/RB
+  ,/,
+  (NP Google/NNP)
+  not/RB
+  (VP specify/VB)
+  (NP many/JJ employees/NNS men/NNS)
+  ./.)"
+Donald Trump mistakenly calls Apple CEO Tim Cook 'Tim Apple',"US President Donald Trump mistakenly called Apple CEO Tim Cook 'Tim Apple' at a conference in the White House. In videos that surfaced online, Tim Cook, who is sitting next to Trump, can be seen nodding after Trump's mistake. ""You have really put a big investment in our country. We really appreciate it very much, Tim Apple,"" Trump said.",technology,"Donald Trump mistakenly calls Apple CEO Tim Cook 'Tim Apple'. US President Donald Trump mistakenly called Apple CEO Tim Cook 'Tim Apple' at a conference in the White House. In videos that surfaced online, Tim Cook, who is sitting next to Trump, can be seen nodding after Trump's mistake. ""You have really put a big investment in our country. We really appreciate it very much, Tim Apple,"" Trump said.",donald trump mistakenly call apple ceo tim cook tim apple us president donald trump mistakenly call apple ceo tim cook tim apple conference white house video surface online tim cook sit next trump see nod trump mistake really put big investment country really appreciate much tim apple trump say,"(S
+  (NP Donald/NNP Trump/NNP)
+  mistakenly/RB
+  (VP calls/VBZ)
+  (NP
+    Apple/NNP
+    CEO/NNP
+    Tim/NNP
+    Cook/NNP
+    Tim/NNP
+    Apple./NNP
+    US/NNP
+    President/NNP
+    Donald/NNP
+    Trump/NNP)
+  mistakenly/RB
+  (VP called/VBD)
+  (NP
+    Apple/NNP
+    CEO/NNP
+    Tim/NNP
+    Cook/NNP
+    Tim/NNP
+    Apple/NNP
+    conference/NN
+    White/NNP
+    House./NNP
+    videos/NN)
+  (VP surfaced/VBD)
+  (NP online/NN)
+  ,/,
+  (NP Tim/NNP Cook/NNP)
+  ,/,
+  (VP sitting/VBG)
+  (NP next/JJ Trump/NNP)
+  ,/,
+  (VP seen/VBN nodding/VBG)
+  (NP Trumps/NNP mistake./NN ""/NNP)
+  really/RB
+  (VP put/VBD)
+  (NP big/JJ investment/NN country./NN)
+  really/RB
+  (NP appreciate/JJ)
+  much/RB
+  ,/,
+  (NP Tim/NNP Apple/NNP)
+  ,/,
+  (NP ""/NNP Trump/NNP)
+  (VP said/VBD)
+  ./.)"
+Lego trolls foldable smartphones with its own foldable product,"Danish company Lego trolled foldable phones on Twitter with an image of its own foldable product, 'Lego Fold' captioned, ""For endless creative play that never runs out of battery"". Described as having a ""5-inch cover display [that] unfolds into...11-inch...storybook"", Lego Fold is Lego's 3D pop-up storybook product. Last month, companies including Samsung and Huawei unveiled foldable phones. ",technology,"Lego trolls foldable smartphones with its own foldable product. Danish company Lego trolled foldable phones on Twitter with an image of its own foldable product, 'Lego Fold' captioned, ""For endless creative play that never runs out of battery"". Described as having a ""5-inch cover display [that] unfolds into...11-inch...storybook"", Lego Fold is Lego's 3D pop-up storybook product. Last month, companies including Samsung and Huawei unveiled foldable phones. ",lego troll foldable smartphone foldable product danish company lego troll foldable phone twitter image foldable product lego fold captioned endless creative play never run battery describe 5inch cover display [ ] unfold 11inch storybook lego fold legos 3d pop storybook product last month company include samsung huawei unveil foldable phone,"(S
+  (NP Lego/NNP)
+  (VP trolls/VBZ)
+  (NP
+    foldable/JJ
+    smartphones/NNS
+    foldable/JJ
+    product./JJ
+    Danish/JJ
+    company/NN
+    Lego/NNP)
+  (VP trolled/VBD)
+  (NP
+    foldable/JJ
+    phones/NNS
+    Twitter/NNP
+    image/NN
+    foldable/JJ
+    product/NN)
+  ,/,
+  (NP Lego/NNP Fold/NNP)
+  (VP captioned/VBD)
+  ,/,
+  (NP ""/NNP)
+  endless/RB
+  (NP creative/JJ play/NN)
+  never/RB
+  (VP runs/VBZ)
+  (NP battery/NN ""/NN)
+  ./.
+  (NP
+    Described/NNP
+    ""/JJ
+    5-inch/JJ
+    cover/NN
+    display/NN
+    [/NNP
+    ]/NNP
+    unfolds/NNS)
+  .../:
+  (NP 11-inch/JJ)
+  .../:
+  (NP storybook/NN ""/NN)
+  ,/,
+  (NP
+    Lego/NNP
+    Fold/NNP
+    Legos/NNP
+    3D/CD
+    pop-up/JJ
+    storybook/NN
+    product./NN
+    Last/JJ
+    month/NN)
+  ,/,
+  (NP companies/NNS including/VBG Samsung/NNP Huawei/NNP)
+  (VP unveiled/VBD)
+  (NP foldable/JJ phones./NN))"
+T-Series getting desperate: PewDiePie as they ask for subscribers,"Swedish YouTuber PewDiePie has responded after T-Series Chairman Bhushan Kumar asked for more YouTube subscribers to become the world's most subscribed to channel on the Google-owned platform. ""They are getting desperate"", PewDiePie replied to Kumar's ""We can make history. We can make India win"" tweet. Earlier, a PewDiePie fan hacked 50,000 printers, causing them to print ""help defeat T-Series"".",technology,"T-Series getting desperate: PewDiePie as they ask for subscribers. Swedish YouTuber PewDiePie has responded after T-Series Chairman Bhushan Kumar asked for more YouTube subscribers to become the world's most subscribed to channel on the Google-owned platform. ""They are getting desperate"", PewDiePie replied to Kumar's ""We can make history. We can make India win"" tweet. Earlier, a PewDiePie fan hacked 50,000 printers, causing them to print ""help defeat T-Series"".",series get desperate pewdiepie ask subscriber swedish youtuber pewdiepie respond series chairman bhushan kumar ask youtube subscriber become world subscribe channel google platform get desperate pewdiepie reply kumar make history make india win tweet earlier pewdiepie fan hack 50000 printer cause print help defeat series,"(S
+  (NP T-Series/NNS getting/VBG desperate/NN)
+  :/:
+  (NP PewDiePie/NNP)
+  (VP ask/VB)
+  (NP subscribers./JJ Swedish/JJ YouTuber/NNP PewDiePie/NNP)
+  (VP responded/VBD)
+  (NP T-Series/NNP Chairman/NNP Bhushan/NNP Kumar/NNP)
+  (VP asked/VBD)
+  (NP YouTube/NNP subscribers/NNS)
+  (VP become/VBP)
+  (NP
+    worlds/NNS
+    subscribed/JJ
+    channel/NNS
+    Google-owned/JJ
+    platform./NN
+    ""/NNP)
+  (VP getting/VBG)
+  (NP desperate/JJ ""/NNS)
+  ,/,
+  (NP PewDiePie/NNP)
+  (VP replied/VBD)
+  (NP Kumars/NNP ""/NNP)
+  (VP make/VBP)
+  (NP history./JJ)
+  (VP make/VB)
+  (NP India/NNP)
+  (VP win/VB)
+  (NP ""/NNP tweet./NN Earlier/NNP)
+  ,/,
+  (NP PewDiePie/NNP fan/NN)
+  (VP hacked/VBD)
+  (NP 50,000/CD printers/NNS)
+  ,/,
+  (VP causing/VBG)
+  (NP print/NN ""/NN help/NN)
+  (VP defeat/VB)
+  (NP T-Series/NNS ""/NNP)
+  ./.)"
+Japan startup develops software to spot shoplifters before they steal,"Japanese startup Vaak has developed a software which can spot potential shoplifters even before they steal any item from a store. The software uses footage from the security cameras for fidgeting, restlessness and other potentially suspicious body language of people. The software analyses the security-camera footage and alerts the store's staff about potential thieves via a smartphone app.",technology,"Japan startup develops software to spot shoplifters before they steal. Japanese startup Vaak has developed a software which can spot potential shoplifters even before they steal any item from a store. The software uses footage from the security cameras for fidgeting, restlessness and other potentially suspicious body language of people. The software analyses the security-camera footage and alerts the store's staff about potential thieves via a smartphone app.",japan startup develop software spot shoplifter steal japanese startup vaak develop software spot potential shoplifter even steal item store software use footage security camera fidget restlessness potentially suspicious body language people software analyse security camera footage alert store staff potential thief via smartphone app,"(S
+  (NP Japan/NNP startup/NN)
+  (VP develops/VBZ)
+  (NP software/NN spot/NN shoplifters/NNS)
+  (VP steal./VBP)
+  (NP Japanese/JJ startup/NN Vaak/NNP)
+  (VP developed/VBD)
+  (NP software/NN spot/NN potential/JJ shoplifters/NNS)
+  even/RB
+  (VP steal/VBP)
+  (NP item/NN store./NN software/NN)
+  (VP uses/VBZ)
+  (NP footage/JJ security/NN cameras/NNS)
+  (VP fidgeting/VBG)
+  ,/,
+  (NP restlessness/NN)
+  potentially/RB
+  (NP suspicious/JJ body/NN language/NN people./NN software/NN)
+  (VP analyses/VBZ)
+  (NP
+    security-camera/JJ
+    footage/NN
+    alerts/NNS
+    stores/NNS
+    staff/NN
+    potential/JJ
+    thieves/NNS)
+  (PP via/IN)
+  (NP smartphone/NN app/NN)
+  ./.)"
+FB apologises over staff comments on Pulwama attack: Report,"Facebook Global Policy Head has reportedly apologised to BJP MP Anurag Thakur-led Parliamentary Panel over its employees' comments on the Pulwama attack. Facebook also failed to clearly answer which regulatory framework applies to its content. ""Indian elections, national security, protecting citizens' data is our top priority...send clear written replies in 10 days,"" the panel reportedly said.",technology,"FB apologises over staff comments on Pulwama attack: Report. Facebook Global Policy Head has reportedly apologised to BJP MP Anurag Thakur-led Parliamentary Panel over its employees' comments on the Pulwama attack. Facebook also failed to clearly answer which regulatory framework applies to its content. ""Indian elections, national security, protecting citizens' data is our top priority...send clear written replies in 10 days,"" the panel reportedly said.",fb apologis staff comment pulwama attack report facebook global policy head reportedly apologise bjp mp anurag thakur lead parliamentary panel employee comment pulwama attack facebook also fail clearly answer regulatory framework apply content indian election national security protect citizen datum top priority send clear write reply 10 day panel reportedly say,"(S
+  (NP FB/NNP)
+  (VP apologises/VBZ)
+  (NP staff/NN comments/NNS Pulwama/NNP attack/NN)
+  :/:
+  (NP Report./NNP Facebook/NNP Global/NNP Policy/NNP Head/NNP)
+  reportedly/RB
+  (VP apologised/VBD)
+  (NP
+    BJP/NNP
+    MP/NNP
+    Anurag/NNP
+    Thakur-led/JJ
+    Parliamentary/NNP
+    Panel/NNP
+    employees/NNS
+    comments/NNS
+    Pulwama/NNP
+    attack./NN
+    Facebook/NNP)
+  also/RB
+  (VP failed/VBD clearly/RB)
+  (NP answer/JJR regulatory/JJ framework/NN applies/NNS)
+  (VP content./VBP)
+  (NP ""/JJ Indian/JJ elections/NNS)
+  ,/,
+  (NP national/JJ security/NN)
+  ,/,
+  (VP protecting/VBG)
+  (NP citizens/NNS data/NNS top/JJ priority/NN)
+  .../:
+  (VP send/VBP)
+  (NP clear/JJ written/VBN replies/NNS 10/CD days/NNS)
+  ,/,
+  (NP ""/JJ panel/NN)
+  reportedly/RB
+  (VP said/VBD)
+  ./.)"
+WebAuthn becomes standard for password-free web logins,"Web Authentication (WebAuthn), that lets users login to their internet accounts using their preferred device, biometrics or FIDO security keys, has become an official web standard for logins. WebAuthn is already supported in browsers including Google Chrome. ""Now is the time for web services...to adopt WebAuthn to move beyond vulnerable passwords,"" World Wide Consortium (W3C) CEO Jeff Jaffe said.",technology,"WebAuthn becomes standard for password-free web logins. Web Authentication (WebAuthn), that lets users login to their internet accounts using their preferred device, biometrics or FIDO security keys, has become an official web standard for logins. WebAuthn is already supported in browsers including Google Chrome. ""Now is the time for web services...to adopt WebAuthn to move beyond vulnerable passwords,"" World Wide Consortium (W3C) CEO Jeff Jaffe said.",webauthn become standard password free web login web authentication webauthn let user login internet account use preferred device biometric fido security key become official web standard login webauthn already support browser include google chrome time web service adopt webauthn move beyond vulnerable password world wide consortium w3c ceo jeff jaffe say,"(S
+  (NP WebAuthn/NNP)
+  (VP becomes/VBZ)
+  (NP
+    standard/JJ
+    password-free/JJ
+    web/NN
+    logins./NN
+    Web/NNP
+    Authentication/NNP)
+  (/(
+  (NP WebAuthn/NNP)
+  )/)
+  ,/,
+  (VP lets/VBZ)
+  (NP users/NNS login/JJ internet/JJ accounts/NNS)
+  (VP using/VBG)
+  (NP preferred/JJ device/NN)
+  ,/,
+  (NP biometrics/NNS FIDO/NNP security/NN keys/NN)
+  ,/,
+  (VP become/VBP)
+  (NP official/JJ web/JJ standard/NN logins./NN WebAuthn/NNP)
+  already/RB
+  (VP supported/VBD)
+  (NP
+    browsers/NNS
+    including/VBG
+    Google/NNP
+    Chrome./NNP
+    ""/NNP
+    time/NN
+    web/NN
+    services/NNS)
+  .../:
+  (VP adopt/VBZ)
+  (NP WebAuthn/NNP move/NN)
+  (PP beyond/IN)
+  (NP vulnerable/JJ passwords/NNS)
+  ,/,
+  (NP ""/NNP World/NNP Wide/NNP Consortium/NNP)
+  (/(
+  (NP W3C/NNP)
+  )/)
+  (NP CEO/NNP Jeff/NNP Jaffe/NNP)
+  (VP said/VBD)
+  ./.)"
+400-year-old Japan temple unveils robot avatar of Buddhist Goddess,"A 400-year-old Kyoto-based temple has unveiled a robotic avatar of the Buddhist Goddess of Mercy, Kannon, in an attempt to keep the younger generation connected with Buddhism. Named 'Mindar', the robot can join its hands and move its eyes and torso while delivering 25-minute-long sermons to worshippers. The robot designers said the avatar has been made in a gender-neutral form.",technology,"400-year-old Japan temple unveils robot avatar of Buddhist Goddess. A 400-year-old Kyoto-based temple has unveiled a robotic avatar of the Buddhist Goddess of Mercy, Kannon, in an attempt to keep the younger generation connected with Buddhism. Named 'Mindar', the robot can join its hands and move its eyes and torso while delivering 25-minute-long sermons to worshippers. The robot designers said the avatar has been made in a gender-neutral form.",400year old japan temple unveil robot avatar buddhist goddess 400year old kyoto base temple unveil robotic avatar buddhist goddess mercy kannon attempt keep young generation connect buddhism name mindar robot join hand move eye torso deliver 25minute long sermon worshipper robot designer say avatar make gender neutral form,"(S
+  (NP 400-year-old/JJ Japan/NNP temple/NN unveils/NNS)
+  (VP robot/VBP)
+  (NP
+    avatar/JJ
+    Buddhist/NNP
+    Goddess./NNP
+    400-year-old/JJ
+    Kyoto-based/JJ
+    temple/NN)
+  (VP unveiled/VBD)
+  (NP robotic/JJ avatar/NN Buddhist/NNP Goddess/NNP Mercy/NNP)
+  ,/,
+  (NP Kannon/NNP)
+  ,/,
+  (NP attempt/NN)
+  (VP keep/VB)
+  (NP younger/JJR generation/NN)
+  (VP connected/VBD)
+  (NP Buddhism./NNP Named/NNP Mindar/NNP)
+  ,/,
+  (NP robot/NN join/NN hands/NNS)
+  (VP move/VBP)
+  (NP eyes/NNS)
+  (PP torso/IN)
+  (VP delivering/VBG)
+  (NP 25-minute-long/JJ sermons/NNS)
+  (VP worshippers./VBP)
+  (NP robot/NN designers/NNS)
+  (VP said/VBD)
+  (NP avatar/NN)
+  (VP made/VBD)
+  (NP gender-neutral/JJ form/NN)
+  ./.)"
+Apple buys shut down AI security cam maker's patents: Report,"Apple has reportedly acquired patents belonging to AI security camera maker Lighthouse, which had announced it would be shutting down last year. These patents include ""Computer-vision based security system using a depth camera"" and ""Method and system for visual authentication"". The report speculates Apple may be acquiring patents to upgrade the Face ID system in its upcoming devices. ",technology,"Apple buys shut down AI security cam maker's patents: Report. Apple has reportedly acquired patents belonging to AI security camera maker Lighthouse, which had announced it would be shutting down last year. These patents include ""Computer-vision based security system using a depth camera"" and ""Method and system for visual authentication"". The report speculates Apple may be acquiring patents to upgrade the Face ID system in its upcoming devices. ",apple buy shut ai security cam maker patent report apple reportedly acquire patent belong ai security camera maker lighthouse announce would shut last year patent include computer vision base security system use depth camera method system visual authentication report speculate apple may acquire patent upgrade face would system upcoming device,"(S
+  (NP Apple/NNP)
+  (VP buys/VBZ)
+  (NP shut/JJ AI/NNP security/NN cam/NN makers/NNS patents/NNS)
+  :/:
+  (NP Report./NNP Apple/NNP)
+  reportedly/RB
+  (VP acquired/VBD)
+  (NP
+    patents/NNS
+    belonging/VBG
+    AI/NNP
+    security/NN
+    camera/NN
+    maker/NN
+    Lighthouse/NNP)
+  ,/,
+  (VP announced/VBD)
+  (VP would/MD shutting/VBG)
+  (NP last/JJ year./JJ patents/NNS)
+  (VP include/VBP)
+  (NP ""/JJ Computer-vision/NNP)
+  (VP based/VBN)
+  (NP security/NN system/NN)
+  (VP using/VBG)
+  (NP
+    depth/JJ
+    camera/NN
+    ""/NN
+    ""/NNP
+    Method/NNP
+    system/NN
+    visual/JJ
+    authentication/NN
+    ""/NNP)
+  ./.
+  (NP report/NN)
+  (VP speculates/VBZ)
+  (NP Apple/NNP)
+  (VP may/MD acquiring/VBG)
+  (NP patents/NNS upgrade/JJ Face/NNP ID/NNP system/NN)
+  (VP upcoming/VBG)
+  (NP devices./NN))"
+"Delhi government launches app to track bus, metro services","Delhi Transport Minister Kailash Gahlot has launched a common mobility app named 'One Delhi' that provides information on public transport systems including buses and the metro. It shows bus or metro routes, nearest bus stops, fares and gives arrival information in real time. ""Our vision is to make public transport the preferred mode of transport in Delhi,"" Kailash Gahlot said.",technology,"Delhi government launches app to track bus, metro services. Delhi Transport Minister Kailash Gahlot has launched a common mobility app named 'One Delhi' that provides information on public transport systems including buses and the metro. It shows bus or metro routes, nearest bus stops, fares and gives arrival information in real time. ""Our vision is to make public transport the preferred mode of transport in Delhi,"" Kailash Gahlot said.",delhi government launch app track bus metro service delhi transport minister kailash gahlot launch common mobility app name one delhi provide information public transport system include bus metro show bus metro route near bus stop fare give arrival information real time vision make public transport preferred mode transport delhi kailash gahlot say,"(S
+  (NP Delhi/JJ government/NN launches/NNS)
+  (VP app/VBP)
+  (NP track/NN bus/NN)
+  ,/,
+  metro/FW
+  services./FW
+  (NP Delhi/NNP Transport/NNP Minister/NNP Kailash/NNP Gahlot/NNP)
+  (VP launched/VBD)
+  (NP common/JJ mobility/NN app/NN)
+  (VP named/VBD)
+  (NP One/CD Delhi/NNP)
+  (VP provides/VBZ)
+  (NP information/NN public/JJ transport/NN systems/NNS)
+  (VP including/VBG)
+  (NP buses/NNS metro./NN)
+  (VP shows/VBZ)
+  (NP bus/NN metro/NN routes/NNS)
+  ,/,
+  nearest/JJS
+  (NP bus/NN stops/NNS)
+  ,/,
+  (NP fares/NNS)
+  (VP gives/VBZ)
+  (NP arrival/JJ information/NN real/JJ time./NN ""/NNP vision/NN)
+  (VP make/VBP)
+  (NP public/JJ transport/NN)
+  (VP preferred/VBD)
+  (NP mode/JJ transport/NN Delhi/NNP)
+  ,/,
+  (NP ""/NNP Kailash/NNP Gahlot/NNP)
+  (VP said/VBD)
+  ./.)"
+Huawei sues US over government ban on its equipment,"Chinese technology giant Huawei on Thursday said it has filed a lawsuit against the US for barring government agencies from using its products. ""This ban.. is unlawful.. [It] restricts Huawei from engaging in fair competition, ultimately harming US consumers,"" Huawei Rotating Chairman Guo Ping said. The US has alleged the company's equipment could be used for espionage by Chinese government.",technology,"Huawei sues US over government ban on its equipment. Chinese technology giant Huawei on Thursday said it has filed a lawsuit against the US for barring government agencies from using its products. ""This ban.. is unlawful.. [It] restricts Huawei from engaging in fair competition, ultimately harming US consumers,"" Huawei Rotating Chairman Guo Ping said. The US has alleged the company's equipment could be used for espionage by Chinese government.",huawei sue us government ban equipment chinese technology giant huawei thursday say file lawsuit us bar government agency use product ban unlawful [ ] restrict huawei engage fair competition ultimately harm us consumer huawei rotate chairman guo ping say us allege companys equipment could use espionage chinese government,"(S
+  (NP Huawei/NNP)
+  (VP sues/VBZ)
+  (NP US/NNP government/NN ban/NN)
+  (PP equipment./IN)
+  (NP Chinese/NNP technology/NN giant/NN Huawei/NNP Thursday/NNP)
+  (VP said/VBD filed/VBN)
+  (NP lawsuit/NN US/NNP)
+  (VP barring/VBG)
+  (NP government/NN agencies/NNS)
+  (VP using/VBG)
+  (NP
+    products./NN
+    ""/NNP
+    ban/NN
+    ../NNP
+    unlawful/JJ
+    ../NNP
+    [/NNP
+    ]/NNP)
+  (VP restricts/VBZ)
+  (NP Huawei/NNP engaging/VBG fair/JJ competition/NN)
+  ,/,
+  ultimately/RB
+  (VP harming/VBG)
+  (NP US/NNP consumers/NNS)
+  ,/,
+  (NP ""/NNP Huawei/NNP Rotating/NNP Chairman/NNP Guo/NNP Ping/NNP)
+  (VP said./VBD)
+  (NP US/NNP)
+  (VP alleged/VBD)
+  (NP companys/JJ equipment/NN)
+  (VP could/MD used/VBN espionage/VB)
+  (NP Chinese/JJ government/NN)
+  ./.)"
+"China hackers targeted MIT, others for military info: Report","Chinese hackers targeted at least 27 universities in the US, Canada, and Southeast Asia to access maritime military research, as per an iDefense report obtained by the Wall Street Journal. MIT and Washington University were reportedly among those targeted by phishing emails, that unleashed malicious payload when opened. The cyberattacks date back to at least April 2017, the report added.",technology,"China hackers targeted MIT, others for military info: Report. Chinese hackers targeted at least 27 universities in the US, Canada, and Southeast Asia to access maritime military research, as per an iDefense report obtained by the Wall Street Journal. MIT and Washington University were reportedly among those targeted by phishing emails, that unleashed malicious payload when opened. The cyberattacks date back to at least April 2017, the report added.",china hacker target mit military info report chinese hacker target least 27 university us canada southeast asia access maritime military research per idefense report obtain wall street journal mit washington university reportedly among target phish email unleash malicious payload open cyberattack date back least april 2017 report add,"(S
+  (NP China/NNP hackers/NNS)
+  (VP targeted/VBD)
+  (NP MIT/NNP)
+  ,/,
+  (NP others/NNS military/JJ info/NN)
+  :/:
+  (NP Report./NNP Chinese/NNP hackers/NNS)
+  (VP targeted/VBD)
+  least/JJS
+  (NP 27/CD universities/NNS US/NNP)
+  ,/,
+  (NP Canada/NNP)
+  ,/,
+  (NP Southeast/NNP Asia/NNP access/NN)
+  maritime/RB
+  (NP military/JJ research/NN)
+  ,/,
+  (PP per/IN)
+  (NP iDefense/JJ report/NN)
+  (VP obtained/VBD)
+  (NP
+    Wall/NNP
+    Street/NNP
+    Journal./NNP
+    MIT/NNP
+    Washington/NNP
+    University/NNP)
+  reportedly/RB
+  (PP among/IN)
+  (NP targeted/JJ phishing/NN emails/NNS)
+  ,/,
+  (VP unleashed/VBD)
+  (NP malicious/JJ payload/NN opened./NN cyberattacks/NNS date/NN)
+  back/RB
+  least/JJS
+  (NP April/NNP 2017/CD)
+  ,/,
+  (NP report/NN)
+  (VP added/VBD)
+  ./.)"
+'Bolo' app will not send children's data to us: Google India,"Google India has said speech-based 'Bolo' app aimed at rural children, unveiled on Wednesday, will not send data back to Google. The technology giant added the app, made to improve children's English and Hindi-reading skills, is meant for just 10-15 minutes of daily use. This comes after the US fined TikTok app $5.7 million for collecting children's data.",technology,"'Bolo' app will not send children's data to us: Google India. Google India has said speech-based 'Bolo' app aimed at rural children, unveiled on Wednesday, will not send data back to Google. The technology giant added the app, made to improve children's English and Hindi-reading skills, is meant for just 10-15 minutes of daily use. This comes after the US fined TikTok app $5.7 million for collecting children's data.",bolo app not send children datum us google india google india say speech base bolo app aim rural child unveil wednesday not send datum back google technology giant add app make improve children english hindi reading skill mean 10 15 minute daily use come us fin tiktok app 5 7 million collect children datum,"(S
+  (NP Bolo/NNP)
+  (VP app/VBZ not/RB)
+  (NP send/JJ childrens/NNS data/NNS)
+  (NP us/PRP)
+  :/:
+  (NP Google/NNP India./NNP Google/NNP India/NNP)
+  (VP said/VBD)
+  (NP speech-based/JJ Bolo/NNP app/NN)
+  (VP aimed/VBN)
+  (NP rural/JJ children/NNS)
+  ,/,
+  (NP unveiled/JJ Wednesday/NNP)
+  ,/,
+  not/RB
+  (VP send/VB)
+  (NP data/NNS)
+  back/RB
+  (NP Google./NNP technology/NN giant/NN)
+  (VP added/VBD)
+  (NP app/NN)
+  ,/,
+  (VP made/VBN improve/VBP)
+  (NP childrens/NNS English/JJ Hindi-reading/NNP skills/NNS)
+  ,/,
+  (VP meant/VBD)
+  (NP 10-15/JJ minutes/NNS daily/JJ use./JJ)
+  (VP comes/VBZ)
+  (NP US/NNP)
+  (VP fined/VBD)
+  (NP TikTok/NNP)
+  (VP app/VBD)
+  (NP $/$ 5.7/CD million/CD collecting/NN childrens/NNS data/NNS)
+  ./.)"
+"Google unveils Bolo app to teach kids to read English, Hindi","Google on Wednesday unveiled speech-based 'Bolo' app aimed at rural children, to teach them how to read in English and Hindi. The app, which uses Google's speech recognition and text-to-speech technology and features an animated character 'Diya', is a free-to-use app first available in India, on Android. ""We've designed the app to work offline,"" Google said.",technology,"Google unveils Bolo app to teach kids to read English, Hindi. Google on Wednesday unveiled speech-based 'Bolo' app aimed at rural children, to teach them how to read in English and Hindi. The app, which uses Google's speech recognition and text-to-speech technology and features an animated character 'Diya', is a free-to-use app first available in India, on Android. ""We've designed the app to work offline,"" Google said.",google unveil bolo app teach kid read english hindi google wednesday unveil speech base bolo app aim rural child teach read english hindi app use google speech recognition text speech technology feature animate character diya free use app first available india android design app work offline google say,"(S
+  (NP Google/NNP)
+  (VP unveils/VBZ)
+  (NP Bolo/NNP app/NN teach/NN kids/NNS)
+  (VP read/VBP)
+  (NP English/NNP)
+  ,/,
+  (NP Hindi./NNP Google/NNP Wednesday/NNP)
+  (VP unveiled/VBD)
+  (NP speech-based/JJ Bolo/NNP app/NN)
+  (VP aimed/VBN)
+  (NP rural/JJ children/NNS)
+  ,/,
+  (VP teach/VBP)
+  (NP read/JJ English/NNP Hindi./NNP app/NN)
+  ,/,
+  (VP uses/VBZ)
+  (NP
+    Googles/NNP
+    speech/NN
+    recognition/NN
+    text-to-speech/JJ
+    technology/NN
+    features/NNS)
+  (VP animated/VBD)
+  (NP character/NN Diya/NNP)
+  ,/,
+  (NP free-to-use/NN app/NN)
+  first/RB
+  (NP available/JJ India/NNP)
+  ,/,
+  (NP Android./NNP ""/NNP)
+  (VP designed/VBD)
+  (NP app/JJ work/NN offline/NN)
+  ,/,
+  (NP ""/NNP Google/NNP)
+  (VP said/VBD)
+  ./.)"
+Samsung-owned Harman patents flying robotic speakers for VR,"Harman, the American subsidiary of the South Korean technology giant Samsung, has patented a flying speaker system for Virtual Reality (VR) environments. The company plans to achieve better representation of the distance, direction and movement of sounds of the VR environment and its elements using the device, the patent revealed. Samsung had acquired Harman for $8 billion in 2017. ",technology,"Samsung-owned Harman patents flying robotic speakers for VR. Harman, the American subsidiary of the South Korean technology giant Samsung, has patented a flying speaker system for Virtual Reality (VR) environments. The company plans to achieve better representation of the distance, direction and movement of sounds of the VR environment and its elements using the device, the patent revealed. Samsung had acquired Harman for $8 billion in 2017. ",samsung harman patent fly robotic speaker vr harman american subsidiary south korean technology giant samsung patent fly speaker system virtual reality vr environment company plan achieve good representation distance direction movement sound vr environment element use device patent reveal samsung acquire harman 8 billion 2017,"(S
+  (NP Samsung-owned/JJ Harman/NNP patents/NNS)
+  (VP flying/VBG)
+  (NP robotic/JJ speakers/NNS VR./NNP Harman/NNP)
+  ,/,
+  (NP
+    American/NNP
+    subsidiary/NN
+    South/NNP
+    Korean/NNP
+    technology/NN
+    giant/NN
+    Samsung/NNP)
+  ,/,
+  (VP patented/VBD flying/VBG)
+  (NP speaker/NN system/NN Virtual/JJ Reality/NNP)
+  (/(
+  (NP VR/NNP)
+  )/)
+  (VP environments./VBP)
+  (NP company/NN plans/NNS)
+  (VP achieve/VBP)
+  (NP better/JJR representation/NN distance/NN)
+  ,/,
+  (NP direction/NN movement/NN)
+  (VP sounds/VBZ)
+  (NP VR/NNP environment/NN elements/NNS)
+  (VP using/VBG)
+  (NP device/NN)
+  ,/,
+  (NP patent/NN revealed./NN Samsung/NNP)
+  (VP acquired/VBD)
+  (NP Harman/NNP $/$ 8/CD billion/CD 2017./CD))"
+Android TV bug exposes private user pics under screensavers,"A bug on Google's Android TV platform exposed users' private images, which could be set as screensavers by random users under Ambient Mode of Google Home app. Multiple accounts were allegedly linked to one particular account. ""We've disabled the ability to remotely cast via Google Assistant or view photos from Google Photos on Android TV devices,"" Google said.",technology,"Android TV bug exposes private user pics under screensavers. A bug on Google's Android TV platform exposed users' private images, which could be set as screensavers by random users under Ambient Mode of Google Home app. Multiple accounts were allegedly linked to one particular account. ""We've disabled the ability to remotely cast via Google Assistant or view photos from Google Photos on Android TV devices,"" Google said.",android tv bug expose private user pic screensaver bug google android tv platform expose user private image could set screensaver random user ambient mode google home app multiple account allegedly link one particular account disable ability remotely cast via google assistant view photo google photo android tv device google say,"(S
+  (NP Android/NNP TV/NN bug/NN)
+  (VP exposes/VBZ)
+  (NP private/JJ user/NN pics/NNS)
+  (VP screensavers./VBP)
+  (NP bug/NN Googles/NNP Android/NNP TV/NN platform/NN)
+  (VP exposed/VBD)
+  (NP users/NNS private/JJ images/NNS)
+  ,/,
+  (VP could/MD set/VB)
+  (NP
+    screensavers/NNS
+    random/JJ
+    users/NNS
+    Ambient/NNP
+    Mode/NNP
+    Google/NNP
+    Home/NNP
+    app./NN
+    Multiple/NNP)
+  (VP accounts/VBZ allegedly/RB linked/VBN)
+  (NP one/CD particular/JJ account./NN ""/NNP)
+  (VP disabled/VBD)
+  (NP ability/NN)
+  remotely/RB
+  (VP cast/VBD)
+  (PP via/IN)
+  (NP
+    Google/NNP
+    Assistant/NNP
+    view/NN
+    photos/NNS
+    Google/NNP
+    Photos/NNP
+    Android/NNP
+    TV/NN
+    devices/NNS)
+  ,/,
+  (NP ""/NNP Google/NNP)
+  (VP said/VBD)
+  ./.)"
+Facebook adds 'Tributes' section to memorial accounts of users,"Facebook is adding a dedicated 'Tributes' section to memorialised accounts of passed-away users to post stories, commemorate a birthday or share memories. The section, separate from 'timeline', will include posts made after the day it was memorialised. Some Facebook users who have designated 'legacy contacts' to manage their accounts after they die were alerted to the feature by a notification.",technology,"Facebook adds 'Tributes' section to memorial accounts of users. Facebook is adding a dedicated 'Tributes' section to memorialised accounts of passed-away users to post stories, commemorate a birthday or share memories. The section, separate from 'timeline', will include posts made after the day it was memorialised. Some Facebook users who have designated 'legacy contacts' to manage their accounts after they die were alerted to the feature by a notification.",facebook add tribute section memorial account user facebook add dedicated tribute section memorialised account pass away user post story commemorate birthday share memory section separate timeline include post make day memorialised facebook user designate legacy contact manage account die alert feature notification,"(S
+  (NP Facebook/NNP)
+  (VP adds/VBZ)
+  (NP
+    Tributes/NNP
+    section/NN
+    memorial/JJ
+    accounts/NNS
+    users./JJ
+    Facebook/NNP)
+  (VP adding/VBG dedicated/VBN)
+  (NP Tributes/NNPS section/NN)
+  (VP memorialised/VBD)
+  (NP accounts/NNS passed-away/JJ users/NNS post/NN stories/NNS)
+  ,/,
+  (NP commemorate/NN birthday/NN share/NN memories./JJ section/NN)
+  ,/,
+  (NP separate/JJ timeline/NN)
+  ,/,
+  (VP include/VBP)
+  (NP posts/NNS)
+  (VP made/VBD)
+  (NP day/NN)
+  (VP memorialised./VB)
+  (NP Facebook/NNP users/NNS)
+  (VP designated/VBD)
+  (NP legacy/NN contacts/NNS)
+  (VP manage/VBP)
+  (NP accounts/NNS)
+  (VP die/VBP)
+  (NP alerted/JJ feature/NN notification/NN)
+  ./.)"
+Most Indian users unaware of how to report abuse: Twitter,"Most Indian users aren't aware of how to report abuse or harassment they face on Twitter, Global Public Policy VP Colin Crowell said. ""Users might take a screenshot of abuse or harassment [and post it online]...but they don't report that,"" he said. ""Our team can only take action if the issue is reported to us,"" he added.",technology,"Most Indian users unaware of how to report abuse: Twitter. Most Indian users aren't aware of how to report abuse or harassment they face on Twitter, Global Public Policy VP Colin Crowell said. ""Users might take a screenshot of abuse or harassment [and post it online]...but they don't report that,"" he said. ""Our team can only take action if the issue is reported to us,"" he added.",indian user unaware report abuse twitter indian user not aware report abuse harassment face twitter global public policy vp colin crowell say user may take screenshot abuse harassment [ post online ] not report say team take action issue report us add,"(S
+  (NP Indian/JJ users/NNS unaware/JJ report/NN abuse/NN)
+  :/:
+  (NP Twitter./NNP Indian/NNP users/NNS)
+  not/RB
+  (NP aware/JJ report/NN abuse/NN harassment/JJ face/NN Twitter/NNP)
+  ,/,
+  (NP Global/NNP Public/NNP Policy/NNP VP/NNP Colin/NNP Crowell/NNP)
+  (VP said./VBZ)
+  (NP ""/NNP Users/NNP)
+  (VP might/MD take/VB)
+  (NP screenshot/JJ abuse/NN harassment/NN)
+  (VP [/VBZ)
+  (NP post/NN online/NN ]/NN)
+  .../:
+  not/RB
+  (VP report/VB)
+  ,/,
+  (NP ""/NNP said./NN ""/NNP team/NN)
+  (VP take/VB)
+  (NP action/NN issue/NN)
+  (VP reported/VBD)
+  (NP us/PRP)
+  ,/,
+  (VP ""/VBZ added/VBN)
+  ./.)"
+"Google discloses security flaw in macOS kernel, Apple works on fix","Google's security disclosure program named 'Project Zero' has exposed a 'high severity' security flaw in macOS kernel, which it had first disclosed to Apple in November last year. The flaw allows modification of a user-mounted filesystem image without notifying the virtual management system. Apple is intending to resolve the issue in a future release, researchers said.",technology,"Google discloses security flaw in macOS kernel, Apple works on fix. Google's security disclosure program named 'Project Zero' has exposed a 'high severity' security flaw in macOS kernel, which it had first disclosed to Apple in November last year. The flaw allows modification of a user-mounted filesystem image without notifying the virtual management system. Apple is intending to resolve the issue in a future release, researchers said.",google disclose security flaw macos kernel apple work fix google security disclosure program name project zero expose high severity security flaw macos kernel first disclose apple november last year flaw allow modification user mount filesystem image without notify virtual management system apple intend resolve issue future release researcher say,"(S
+  (NP Google/NNP)
+  (VP discloses/VBZ)
+  (NP security/NN flaw/NN macOS/NN kernel/NN)
+  ,/,
+  (NP Apple/NNP)
+  (VP works/VBZ)
+  (NP fix./JJ Googles/NNP security/NN disclosure/NN program/NN)
+  (VP named/VBN)
+  (NP Project/NNP Zero/NNP)
+  (VP exposed/VBD)
+  (NP high/JJ severity/NN security/NN flaw/NN macOS/NN kernel/NN)
+  ,/,
+  first/RB
+  (VP disclosed/VBN)
+  (NP Apple/NNP November/NNP last/JJ year./NN flaw/NN)
+  (VP allows/VBZ)
+  (NP modification/NN user-mounted/JJ filesystem/NN image/NN)
+  (PP without/IN)
+  (VP notifying/VBG)
+  (NP virtual/JJ management/NN system./NN Apple/NNP)
+  (VP intending/VBG)
+  (NP resolve/JJ issue/NN future/NN release/NN)
+  ,/,
+  (NP researchers/NNS)
+  (VP said/VBD)
+  ./.)"
+Some apps still send user data to FB without consent: Report,"Some apps, including search service Yelp and language learning platform Duolingo, are still sending personal data without user consent to Facebook for ad tracking, as per a report. This comes after the social media platform faced criticism for paying and collecting data of teenagers in India and the US. Duolingo has reportedly agreed to suspend the practice.",technology,"Some apps still send user data to FB without consent: Report. Some apps, including search service Yelp and language learning platform Duolingo, are still sending personal data without user consent to Facebook for ad tracking, as per a report. This comes after the social media platform faced criticism for paying and collecting data of teenagers in India and the US. Duolingo has reportedly agreed to suspend the practice.",app still send user datum fb without consent report app include search service yelp language learn platform duolingo still send personal datum without user consent facebook ad tracking per report come social medium platform face criticism pay collect datum teenager india us duolingo reportedly agree suspend practice,"(S
+  (NP apps/NN)
+  still/RB
+  (VP send/VB)
+  (NP user/JJR data/NNS FB/NNP)
+  (PP without/IN)
+  (NP consent/NN)
+  :/:
+  (NP Report./NNP apps/NN)
+  ,/,
+  (VP including/VBG)
+  (NP search/NN service/NN Yelp/NNP language/NN)
+  (VP learning/VBG)
+  (NP platform/NN Duolingo/NNP)
+  ,/,
+  still/RB
+  (VP sending/VBG)
+  (NP personal/JJ data/NNS)
+  (PP without/IN)
+  (NP user/JJ consent/NN Facebook/NNP ad/NN tracking/NN)
+  ,/,
+  (PP per/IN)
+  (NP report./NN)
+  (VP comes/VBZ)
+  (NP social/JJ media/NNS platform/NN)
+  (VP faced/VBD)
+  (NP criticism/NN paying/VBG)
+  (VP collecting/VBG)
+  (NP data/NNS teenagers/NNS India/NNP US./NNP Duolingo/NNP)
+  reportedly/RB
+  (VP agreed/VBD)
+  (NP suspend/JJ practice/NN)
+  ./.)"
+Twitter was too aggressive in banning certain accounts: CEO ,"Twitter CEO Jack Dorsey in a recent interview said the platform admits it was ""probably too aggressive"" in banning certain accounts. The suspensions relate to hashtag ""learn to code"" that was being used as a ""co-ordinated harassment campaign"" to target certain journalists, as per Twitter. Dorsey explained that lack of context concerning the tweets may have led to the bans.",technology,"Twitter was too aggressive in banning certain accounts: CEO . Twitter CEO Jack Dorsey in a recent interview said the platform admits it was ""probably too aggressive"" in banning certain accounts. The suspensions relate to hashtag ""learn to code"" that was being used as a ""co-ordinated harassment campaign"" to target certain journalists, as per Twitter. Dorsey explained that lack of context concerning the tweets may have led to the bans.",twitter aggressive ban certain account ceo twitter ceo jack dorsey recent interview say platform admit probably aggressive ban certain account suspension relate hashtag learn code use co ordinate harassment campaign target certain journalist per twitter dorsey explain lack context concern tweet may lead ban,"(S
+  (NP Twitter/NNP aggressive/JJ banning/NN certain/JJ accounts/NNS)
+  :/:
+  (NP CEO/NN)
+  ./.
+  (NP Twitter/NNP CEO/NNP Jack/NNP Dorsey/NNP recent/JJ interview/NN)
+  (VP said/VBD)
+  (NP platform/NN admits/NNS)
+  (VP ""/VBP probably/RB)
+  (NP aggressive/JJ ""/NN)
+  (VP banning/VBG)
+  (NP certain/JJ accounts./JJ suspensions/NNS)
+  (VP relate/VBP)
+  (NP hashtag/NN ""/NN)
+  (VP learn/VBP)
+  (NP code/NN ""/NN)
+  (VP used/VBN)
+  (NP
+    ""/JJ
+    co-ordinated/JJ
+    harassment/NN
+    campaign/NN
+    ""/NNP
+    target/NN
+    certain/JJ
+    journalists/NNS)
+  ,/,
+  (PP per/IN)
+  (NP Twitter./NNP Dorsey/NNP)
+  (VP explained/VBD)
+  lack/RP
+  (NP context/JJ concerning/VBG tweets/NNS)
+  (VP may/MD led/VB)
+  (NP bans/NNS)
+  ./.)"
+Facebook sees its future in private chats: Mark Zuckerberg,"Facebook CEO Mark Zuckerberg has said the future of communications will shift more to private, encrypted chats and Facebook aims to help bring this change. ""I believe a privacy-focused communications platform will become even more important than today's open platforms,"" he said. ""Working towards implementing end-to-end encryption for all private communications is the right thing to do,"" he added.",technology,"Facebook sees its future in private chats: Mark Zuckerberg. Facebook CEO Mark Zuckerberg has said the future of communications will shift more to private, encrypted chats and Facebook aims to help bring this change. ""I believe a privacy-focused communications platform will become even more important than today's open platforms,"" he said. ""Working towards implementing end-to-end encryption for all private communications is the right thing to do,"" he added.",facebook see future private chat mark zuckerberg facebook ceo mark zuckerberg say future communication shift private encrypted chat facebook aim help bring change believe privacy focus communication platform become even important today open platform say work towards implement end end encryption private communication right thing add,"(S
+  (NP Facebook/NNP)
+  (VP sees/VBZ)
+  (NP future/JJ private/JJ chats/NNS)
+  :/:
+  (NP
+    Mark/NNP
+    Zuckerberg./NNP
+    Facebook/NNP
+    CEO/NNP
+    Mark/NNP
+    Zuckerberg/NNP)
+  (VP said/VBD)
+  (NP future/JJ communications/NNS shift/NN private/JJ)
+  ,/,
+  (NP encrypted/JJ chats/NNS Facebook/NNP aims/NNS)
+  (VP help/VBP bring/VB)
+  (NP change./JJ ""/NNP)
+  (VP believe/VBP)
+  (NP privacy-focused/JJ communications/NNS)
+  (VP platform/VBP become/VB)
+  even/RB
+  (NP important/JJ todays/NNS open/JJ platforms/NNS)
+  ,/,
+  (NP ""/NNP)
+  (VP said./VBZ)
+  (NP ""/JJ Working/NNP towards/NNS)
+  (VP implementing/VBG)
+  (NP
+    end-to-end/JJ
+    encryption/NN
+    private/JJ
+    communications/NNS
+    right/JJ
+    thing/NN)
+  ,/,
+  (NP ""/NNP)
+  (VP added/VBD)
+  ./.)"
+Alphabet's security startup Chronicle debuts 1st product,"Google-parent Alphabet's cybersecurity startup Chronicle has launched its first commercial cybersecurity product 'Backstory'. It makes Alphabet’s storage, indexing and search abilities available to other firms to trace the history of a malicious attack and detect potential threats. Chronicle plans to charge firms based on their number of employees and not the amount of information they store.",technology,"Alphabet's security startup Chronicle debuts 1st product. Google-parent Alphabet's cybersecurity startup Chronicle has launched its first commercial cybersecurity product 'Backstory'. It makes Alphabet’s storage, indexing and search abilities available to other firms to trace the history of a malicious attack and detect potential threats. Chronicle plans to charge firms based on their number of employees and not the amount of information they store.",alphabet security startup chronicle debut 1st product google parent alphabet cybersecurity startup chronicle launch first commercial cybersecurity product backstory make alphabet storage indexing search ability available firm trace history malicious attack detect potential threat chronicle plan charge firm base number employee not amount information store,"(S
+  (NP Alphabets/NNS security/NN)
+  (VP startup/VBP)
+  (NP Chronicle/NNP)
+  (VP debuts/VBZ)
+  (NP
+    1st/CD
+    product./JJ
+    Google-parent/JJ
+    Alphabets/NNS
+    cybersecurity/NN)
+  (VP startup/VBP)
+  (NP Chronicle/NNP)
+  (VP launched/VBD first/RB)
+  (NP commercial/JJ cybersecurity/NN product/NN Backstory./NNP)
+  (VP makes/VBZ)
+  (NP Alphabets/NNP storage/NN)
+  ,/,
+  (VP indexing/VBG)
+  (NP search/NN abilities/NNS available/JJ firms/NNS)
+  (VP trace/VBP)
+  (NP
+    history/NN
+    malicious/JJ
+    attack/NN
+    detect/JJ
+    potential/JJ
+    threats./NN
+    Chronicle/NNP)
+  (VP plans/VBZ)
+  (NP charge/NN firms/NNS)
+  (VP based/VBN)
+  (NP number/NN employees/NNS)
+  not/RB
+  (VP amount/VB)
+  (NP information/NN store/NN)
+  ./.)"
+"It took 110 years of Test cricket for a player to reach 10,000 runs","Cricket legend Sunil Gavaskar became the first-ever batsman to reach 10,000 runs in Test cricket on March 7, 1987, almost 110 years after the first-ever Test. Gavaskar achieved the feat during his 63-run knock in the first innings against Pakistan in Ahmedabad. As many as 13 batsmen have scored over 10,000 runs in Test cricket till now. ",sports,"It took 110 years of Test cricket for a player to reach 10,000 runs. Cricket legend Sunil Gavaskar became the first-ever batsman to reach 10,000 runs in Test cricket on March 7, 1987, almost 110 years after the first-ever Test. Gavaskar achieved the feat during his 63-run knock in the first innings against Pakistan in Ahmedabad. As many as 13 batsmen have scored over 10,000 runs in Test cricket till now. ",take 110 year test cricket player reach 10000 run cricket legend sunil gavaskar become first ever batsman reach 10000 run test cricket march 7 1987 almost 110 year first ever test gavaskar achieve feat 63run knock first innings pakistan ahmedabad many 13 batsman score 10000 run test cricket till,"(S
+  took/VBD
+  (NP 110/CD years/NNS Test/NNP cricket/NN player/NN)
+  (VP reach/VBP)
+  (NP
+    10,000/CD
+    runs./NN
+    Cricket/NNP
+    legend/NN
+    Sunil/NNP
+    Gavaskar/NNP)
+  (VP became/VBD)
+  (NP first-ever/JJ batsman/NN reach/NN 10,000/CD)
+  (VP runs/VBZ)
+  (NP Test/NNP cricket/NN March/NNP 7/CD)
+  ,/,
+  (NP 1987/CD)
+  ,/,
+  almost/RB
+  (NP 110/CD years/NNS first-ever/JJ Test./NNP Gavaskar/NNP)
+  (VP achieved/VBD)
+  (NP
+    feat/JJ
+    63-run/JJ
+    knock/NN
+    first/JJ
+    innings/NNS
+    Pakistan/NNP
+    Ahmedabad./NNP
+    many/JJ
+    13/CD
+    batsmen/NNS)
+  (VP scored/VBD)
+  (NP 10,000/CD runs/NNS Test/NNP cricket/NN till/NN now./NN))"
+2-time Cricket WC winner Viv Richards also played FIFA World Cup,"Cricket legend Viv Richards is the only man to play in cricket and football World Cups. Richards, who was born on March 7, 1952, won the first two editions of the Cricket World Cup with West Indies and was part of Antigua's squad in the 1974 FIFA World Cup Qualifiers. Richards represented West Indies in 121 Tests and 187 ODIs.",sports,"2-time Cricket WC winner Viv Richards also played FIFA World Cup. Cricket legend Viv Richards is the only man to play in cricket and football World Cups. Richards, who was born on March 7, 1952, won the first two editions of the Cricket World Cup with West Indies and was part of Antigua's squad in the 1974 FIFA World Cup Qualifiers. Richards represented West Indies in 121 Tests and 187 ODIs.",2time cricket wc winner viv richard also play fifa world cup cricket legend viv richard man play cricket football world cup richard bear march 7 1952 win first two edition cricket world cup west indie part antiguas squad 1974 fifa world cup qualifier richard represent west indie 121 test 187 odi,"(S
+  (NP 2-time/JJ Cricket/NNP WC/NNP winner/NN Viv/NNP Richards/NNP)
+  also/RB
+  (VP played/VBD)
+  (NP FIFA/NNP World/NNP Cup./NNP Cricket/NNP)
+  (VP legend/VBP)
+  (NP
+    Viv/NNP
+    Richards/NNP
+    man/NN
+    play/NN
+    cricket/NN
+    football/NN
+    World/NNP
+    Cups./NNP
+    Richards/NNP)
+  ,/,
+  (VP born/VBN)
+  (NP March/NNP 7/CD)
+  ,/,
+  (NP 1952/CD)
+  ,/,
+  first/RB
+  (NP
+    two/CD
+    editions/NNS
+    Cricket/NNP
+    World/NNP
+    Cup/NNP
+    West/NNP
+    Indies/NNP
+    part/NN
+    Antiguas/NNP
+    squad/NN
+    1974/CD
+    FIFA/NNP
+    World/NNP
+    Cup/NNP
+    Qualifiers./NNP
+    Richards/NNP)
+  (VP represented/VBD)
+  (NP West/NNP Indies/NNPS 121/CD Tests/NNS 187/CD ODIs/NNP)
+  ./.)"
+Security watching match: Gavaskar on pitch invader chasing Dhoni ,"Reacting to pitch invader chasing MS Dhoni during the second India-Australia ODI, commentator Matthew Hayden asked Sunil Gavaskar, ""Where was the security, Sunny?"" ""They are watching the match and therefore were not able to stop these invasions. In Australia, South Africa, and England, the security guys are sitting with their back towards the game and watching the crowd,"" Gavaskar replied.",sports,"Security watching match: Gavaskar on pitch invader chasing Dhoni . Reacting to pitch invader chasing MS Dhoni during the second India-Australia ODI, commentator Matthew Hayden asked Sunil Gavaskar, ""Where was the security, Sunny?"" ""They are watching the match and therefore were not able to stop these invasions. In Australia, South Africa, and England, the security guys are sitting with their back towards the game and watching the crowd,"" Gavaskar replied.",security watch match gavaskar pitch invader chase dhoni react pitch invader chase ms dhoni second india australia odi commentator matthew hayden ask sunil gavaskar security sunny watch match therefore not able stop invasion australia south africa england security guy sit back towards game watch crowd gavaskar reply,"(S
+  (NP Security/NN watching/VBG match/NN)
+  :/:
+  (NP Gavaskar/NNP pitch/NN invader/NN)
+  (VP chasing/VBG)
+  (NP Dhoni/NNP)
+  ./.
+  (VP Reacting/VBG)
+  (NP pitch/NN invader/NN)
+  (VP chasing/VBG)
+  (NP MS/NNP Dhoni/NNP second/JJ India-Australia/NNP ODI/NNP)
+  ,/,
+  (NP commentator/NN Matthew/NNP Hayden/NNP)
+  (VP asked/VBD)
+  (NP Sunil/NNP Gavaskar/NNP)
+  ,/,
+  (NP ""/NNP security/NN)
+  ,/,
+  (NP Sunny/NNP)
+  ?/.
+  (NP ""/NNP ""/NNPS)
+  (VP watching/VBG)
+  (NP match/NN)
+  therefore/RB
+  not/RB
+  (NP able/JJ)
+  (VP stop/VB)
+  (NP invasions./NN Australia/NNP)
+  ,/,
+  (NP South/NNP Africa/NNP)
+  ,/,
+  (NP England/NNP)
+  ,/,
+  (NP security/NN guys/NNS)
+  (VP sitting/VBG back/RB)
+  (NP towards/NNS game/NN)
+  (VP watching/VBG)
+  (NP crowd/NN)
+  ,/,
+  (NP ""/NNP Gavaskar/NNP)
+  (VP replied/VBD)
+  ./.)"
+Umpires fail to notice Glenn Maxwell violating 'fake fielding' rule,"During the second India-Australia ODI, Australian all-rounder Glenn Maxwell violated the 'fake fielding' rule in India's 42nd over. India all-rounder Ravindra Jadeja cut a Nathan Coulter-Nile delivery towards backward point, where Maxwell acted like he was throwing the ball to the wicketkeeper despite the ball having gone to the third-man. The umpires failed to notice Maxwell breaching the law. ",sports,"Umpires fail to notice Glenn Maxwell violating 'fake fielding' rule. During the second India-Australia ODI, Australian all-rounder Glenn Maxwell violated the 'fake fielding' rule in India's 42nd over. India all-rounder Ravindra Jadeja cut a Nathan Coulter-Nile delivery towards backward point, where Maxwell acted like he was throwing the ball to the wicketkeeper despite the ball having gone to the third-man. The umpires failed to notice Maxwell breaching the law. ",umpire fail notice glenn maxwell violate fake fielding rule second india australia odi australian round glenn maxwell violate fake fielding rule indias 42nd india round ravindra jadeja cut nathan coulter nile delivery towards backward point maxwell act like throw ball wicketkeeper despite ball go third man umpire fail notice maxwell breach law,"(S
+  (NP Umpires/NNS)
+  (VP fail/VBP)
+  (NP notice/NN Glenn/NNP Maxwell/NNP)
+  (VP violating/VBG)
+  (NP
+    fake/JJ
+    fielding/JJ
+    rule./JJ
+    second/JJ
+    India-Australia/NNP
+    ODI/NNP)
+  ,/,
+  (NP Australian/JJ all-rounder/NN Glenn/NNP Maxwell/NNP)
+  (VP violated/VBD)
+  (NP fake/JJ fielding/NN rule/NN Indias/NNP 42nd/CD)
+  (PP over./IN)
+  (NP India/NNP all-rounder/NN Ravindra/NNP Jadeja/NNP)
+  (VP cut/VBD)
+  (NP Nathan/NNP Coulter-Nile/JJ delivery/NN towards/NNS)
+  backward/RB
+  (NP point/NN)
+  ,/,
+  (NP Maxwell/NNP)
+  (VP acted/VBD)
+  (PP like/IN)
+  (VP throwing/VBG)
+  (NP ball/NN)
+  (PP wicketkeeper/IN)
+  (PP despite/IN)
+  (NP ball/NN gone/VBN third-man./JJ umpires/NNS)
+  (VP failed/VBD notice/RB)
+  (NP Maxwell/NNP breaching/VBG law./NN))"
+Bhabhiji ruining our fitness levels: Pant on dinner at Dhoni's home,"Wicketkeeper-batsman Rishabh Pant took to Twitter to share a picture of himself with Virat Kohli, MS Dhoni and other Team India members at Dhoni's residence in Ranchi. ""Bhabhiji ruining our fitness levels...Super fun evening with fam-jam! Thank you...@msdhoni and @SaakshiSRawat for hosting us,"" he wrote. India is scheduled to face Australia in an ODI at Dhoni's hometown Ranchi on Friday.",sports,"Bhabhiji ruining our fitness levels: Pant on dinner at Dhoni's home. Wicketkeeper-batsman Rishabh Pant took to Twitter to share a picture of himself with Virat Kohli, MS Dhoni and other Team India members at Dhoni's residence in Ranchi. ""Bhabhiji ruining our fitness levels...Super fun evening with fam-jam! Thank you...@msdhoni and @SaakshiSRawat for hosting us,"" he wrote. India is scheduled to face Australia in an ODI at Dhoni's hometown Ranchi on Friday.",bhabhiji ruin fitness level pant dinner dhoni home wicketkeeper batsman rishabh pant take twitter share picture virat kohli ms dhoni team india member dhoni residence ranchi bhabhiji ruin fitness level super fun evening fam jam thank msdhoni saakshisrawat host us write india schedule face australia odi dhoni hometown ranchi friday,"(S
+  (NP Bhabhiji/NNP ruining/VBG fitness/NN levels/NNS)
+  :/:
+  (NP Pant/NNP dinner/NN Dhonis/NNP)
+  (VP home./VBD)
+  (NP Wicketkeeper-batsman/NNP Rishabh/NNP Pant/NNP)
+  (VP took/VBD)
+  (NP Twitter/NNP share/NN picture/NN Virat/NNP Kohli/NNP)
+  ,/,
+  (NP
+    MS/NNP
+    Dhoni/NNP
+    Team/NNP
+    India/NNP
+    members/NNS
+    Dhonis/NNP
+    residence/NN
+    Ranchi./NNP
+    ""/NNP
+    Bhabhiji/NNP)
+  (VP ruining/VBG)
+  (NP fitness/NN levels/NNS)
+  .../:
+  (NP Super/NNP fun/NN)
+  (VP evening/VBG)
+  (NP fam-jam/JJ)
+  !/.
+  (NP Thank/NN)
+  .../:
+  (NP @msdhoni/NNP @SaakshiSRawat/NNP)
+  (VP hosting/VBG)
+  (NP us/PRP)
+  ,/,
+  ""/''
+  (PP wrote./IN)
+  (NP India/NNP)
+  (VP scheduled/VBD)
+  (NP
+    face/NN
+    Australia/NNP
+    ODI/NNP
+    Dhonis/NNP
+    hometown/JJ
+    Ranchi/NNP
+    Friday/NNP)
+  ./.)"
+MS Dhoni hosts Team India for dinner at his home in Ranchi,"Former captain MS Dhoni and his wife Sakshi Dhoni hosted Team India for dinner at their residence in Ranchi on Wednesday. Team India leg-spinner Yuzvendra Chahal shared a photo from the evening and captioned it, ""Thank you for last night @msdhoni bhai and @SaakshiSRawat bhabhi."" India's support staff including Ravi Shastri and Sanjay Bangar were also seen in the picture. ",sports,"MS Dhoni hosts Team India for dinner at his home in Ranchi. Former captain MS Dhoni and his wife Sakshi Dhoni hosted Team India for dinner at their residence in Ranchi on Wednesday. Team India leg-spinner Yuzvendra Chahal shared a photo from the evening and captioned it, ""Thank you for last night @msdhoni bhai and @SaakshiSRawat bhabhi."" India's support staff including Ravi Shastri and Sanjay Bangar were also seen in the picture. ",dhoni host team india dinner home ranchi former captain ms dhoni wife sakshi dhoni host team india dinner residence ranchi wednesday team india leg spinner yuzvendra chahal share photo evening caption thank last night msdhoni bhai saakshisrawat bhabhi indias support staff include ravi shastri sanjay bangar also see picture,"(S
+  (NP MS/NNP Dhoni/NNP)
+  (VP hosts/VBZ)
+  (NP
+    Team/NNP
+    India/NNP
+    dinner/NN
+    home/NN
+    Ranchi./NNP
+    Former/NNP
+    captain/NN
+    MS/NNP
+    Dhoni/NNP
+    wife/NN
+    Sakshi/NNP
+    Dhoni/NNP)
+  (VP hosted/VBD)
+  (NP
+    Team/NNP
+    India/NNP
+    dinner/NN
+    residence/NN
+    Ranchi/NNP
+    Wednesday./NNP
+    Team/NNP
+    India/NNP
+    leg-spinner/NN
+    Yuzvendra/NNP
+    Chahal/NNP)
+  (VP shared/VBD)
+  (NP photo/NN evening/NN)
+  (VP captioned/VBD)
+  ,/,
+  (NP
+    ""/NNP
+    Thank/NNP
+    last/JJ
+    night/NN
+    @msdhoni/NNP
+    bhai/NN
+    @SaakshiSRawat/NNP
+    bhabhi./NN
+    ""/NN
+    Indias/NNP
+    support/NN
+    staff/NN)
+  (VP including/VBG)
+  (NP Ravi/NNP Shastri/NNP Sanjay/NNP Bangar/NNP)
+  also/RB
+  (VP seen/VBN)
+  (NP picture./NN))"
+Your future is as bright as your faith: Shastri on 500th ODI win ,"Following India's 500th ODI victory, India head coach Ravi Shastri took to Twitter to share a picture of the team in a huddle and wrote, ""Your future is as bright as your faith."" India defeated Australia by eight runs in the second ODI at Nagpur to record their 500th ODI victory. The third India-Australia ODI will take place in Ranchi.",sports,"Your future is as bright as your faith: Shastri on 500th ODI win . Following India's 500th ODI victory, India head coach Ravi Shastri took to Twitter to share a picture of the team in a huddle and wrote, ""Your future is as bright as your faith."" India defeated Australia by eight runs in the second ODI at Nagpur to record their 500th ODI victory. The third India-Australia ODI will take place in Ranchi.",future bright faith shastri 500th odi win follow indias 500th odi victory india head coach ravi shastri take twitter share picture team huddle write future bright faith india defeat australia eight run second odi nagpur record 500th odi victory third india australia odi take place ranchi,"(S
+  (NP future/JJ bright/JJ faith/NN)
+  :/:
+  (NP Shastri/NNP 500th/CD ODI/NNP win/NN)
+  ./.
+  (VP Following/VBG)
+  (NP Indias/NNP 500th/CD ODI/NNP victory/NN)
+  ,/,
+  (NP India/NNP head/NN coach/NN Ravi/NNP Shastri/NNP)
+  (VP took/VBD)
+  (NP Twitter/NNP share/NN picture/NN team/NN huddle/NN)
+  (VP wrote/VBD)
+  ,/,
+  (NP ""/JJ future/NN)
+  (VP bright/VBD)
+  (NP faith./JJ ""/NNP India/NNP)
+  (VP defeated/VBD)
+  (NP
+    Australia/NNP
+    eight/CD
+    runs/NNS
+    second/JJ
+    ODI/NNP
+    Nagpur/NNP
+    record/NN
+    500th/CD
+    ODI/NNP
+    victory./JJ
+    third/JJ
+    India-Australia/JJ
+    ODI/NNP)
+  (VP take/VB)
+  (NP place/NN Ranchi/NNP)
+  ./.)"
+Perfect team evening: Kohli on Dhoni hosting team at his residence ,"Team India captain Virat Kohli took to Twitter to share a selfie clicked at residence of former India captain MS Dhoni in Ranchi. ""Great night with the boys at Mahi bhai's place last night. Good food, fun chats all around and great energy. Perfect team evening,"" he added. India are scheduled to face Australia in the third ODI on Friday.",sports,"Perfect team evening: Kohli on Dhoni hosting team at his residence . Team India captain Virat Kohli took to Twitter to share a selfie clicked at residence of former India captain MS Dhoni in Ranchi. ""Great night with the boys at Mahi bhai's place last night. Good food, fun chats all around and great energy. Perfect team evening,"" he added. India are scheduled to face Australia in the third ODI on Friday.",perfect team evening kohli dhoni host team residence team india captain virat kohli take twitter share selfie click residence former india captain ms dhoni ranchi great night boy mahi bhais place last night good food fun chat around great energy perfect team evening add india schedule face australia third odi friday,"(S
+  (NP Perfect/NNP team/NN evening/NN)
+  :/:
+  (NP Kohli/NNP Dhoni/NNP)
+  (VP hosting/VBG)
+  (NP team/NN residence/NN)
+  ./.
+  (NP Team/NNP India/NNP captain/NN Virat/NNP Kohli/NNP)
+  (VP took/VBD)
+  (NP Twitter/NNP share/NN selfie/NN)
+  (VP clicked/VBD)
+  (NP
+    residence/NN
+    former/JJ
+    India/NNP
+    captain/NN
+    MS/NNP
+    Dhoni/NNP
+    Ranchi./NNP
+    ""/NNP
+    Great/NNP
+    night/NN
+    boys/NNS
+    Mahi/NNP
+    bhais/NN
+    place/NN
+    last/JJ)
+  night./RB
+  (NP Good/JJ food/NN)
+  ,/,
+  (NP fun/NN chats/NNS)
+  (PP around/IN)
+  (NP great/JJ energy./NN Perfect/NNP team/NN evening/NN)
+  ,/,
+  (NP ""/NNP)
+  (VP added./VBZ)
+  (NP India/NNP)
+  (VP scheduled/VBD)
+  (NP face/NN Australia/NNP third/JJ ODI/NNP Friday/NNP)
+  ./.)"
+Apne hi ghar mai kya inaugurate karna: Dhoni on stand named after him,"Jharkhand State Cricket Association (JSCA) Secretary Debasish Chakraborty has revealed that former captain MS Dhoni declined to inaugurate the 'Dhoni Pavilion' stand at the stadium in Ranchi. ""We requested him but he said 'Dada apne hi ghar mein kya inaugurate karna?' (What's there to inaugurate in my own house?). He is still so humble and down to earth,"" he added.",sports,"Apne hi ghar mai kya inaugurate karna: Dhoni on stand named after him. Jharkhand State Cricket Association (JSCA) Secretary Debasish Chakraborty has revealed that former captain MS Dhoni declined to inaugurate the 'Dhoni Pavilion' stand at the stadium in Ranchi. ""We requested him but he said 'Dada apne hi ghar mein kya inaugurate karna?' (What's there to inaugurate in my own house?). He is still so humble and down to earth,"" he added.",apne hi ghar mai kya inaugurate karna dhoni stand name jharkhand state cricket association jsca secretary debasish chakraborty reveal former captain ms dhoni decline inaugurate dhoni pavilion stand stadium ranchi request say dada apne hi ghar mein kya inaugurate karna inaugurate house still humble earth add,"(S
+  (NP Apne/NNP hi/NN ghar/NN mai/NN kya/NN inaugurate/NN karna/NN)
+  :/:
+  (NP Dhoni/NNP stand/NN)
+  (VP named/VBN)
+  (NP him./NN Jharkhand/NNP State/NNP Cricket/NNP Association/NNP)
+  (/(
+  (NP JSCA/NNP)
+  )/)
+  (NP Secretary/NNP Debasish/NNP Chakraborty/NNP)
+  (VP revealed/VBD)
+  (NP former/JJ captain/NN MS/NNP Dhoni/NNP)
+  (VP declined/VBD)
+  (NP inaugurate/JJ Dhoni/NNP Pavilion/NNP)
+  (VP stand/VBP)
+  (NP stadium/NN Ranchi./NNP ""/NNP)
+  (VP requested/VBD said/VBD)
+  (NP Dada/NNP)
+  (VP apne/VBD)
+  (NP hi/JJ ghar/NN mein/NN kya/NN inaugurate/NN karna/NN)
+  ?/.
+  (/(
+  (VP inaugurate/VB)
+  (NP house/NN)
+  ?/.
+  )/)
+  ./.
+  still/RB
+  (NP humble/JJ earth/NN)
+  ,/,
+  (NP ""/NNP)
+  (VP added/VBD)
+  ./.)"
+De Kock smashes bat in dressing room after getting out for 94,"South Africa wicketkeeper-opener Quinton de Kock was seen swinging his bat wildly at some object in frustration in the dressing room after getting out for 94(70) in the second ODI against Sri Lanka. Reacting to it, a user tweeted, ""I guess it's safe to assume that this was the last innings Quinton de Kock had with this particular bat.""",sports,"De Kock smashes bat in dressing room after getting out for 94. South Africa wicketkeeper-opener Quinton de Kock was seen swinging his bat wildly at some object in frustration in the dressing room after getting out for 94(70) in the second ODI against Sri Lanka. Reacting to it, a user tweeted, ""I guess it's safe to assume that this was the last innings Quinton de Kock had with this particular bat.""",de kock smash bat dressing room get 94 south africa wicketkeeper opener quinton de kock see swing bat wildly object frustration dressing room get 94 70 second odi sri lanka react user tweet guess safe assume last innings quinton de kock particular bat,"(S
+  (NP De/NNP Kock/NNP smashes/NNS)
+  (VP bat/VBP dressing/VBG)
+  (NP
+    room/NN
+    getting/VBG
+    94./CD
+    South/NNP
+    Africa/NNP
+    wicketkeeper-opener/JJ
+    Quinton/NNP)
+  (PP de/IN)
+  (NP Kock/NNP seen/VBN)
+  (VP swinging/VBG)
+  (NP bat/NN)
+  wildly/RB
+  (NP object/JJ frustration/NN)
+  (VP dressing/VBG)
+  (NP room/NN getting/VBG 94(/CD 70/CD)
+  )/)
+  (NP second/JJ ODI/NNP Sri/NNP Lanka./NNP Reacting/NNP)
+  ,/,
+  user/RB
+  (VP tweeted/VBN)
+  ,/,
+  (NP ""/JJ guess/NN safe/JJ assume/NN last/JJ innings/JJ Quinton/NNP)
+  (PP de/IN)
+  (NP Kock/NNP particular/JJ bat/NN)
+  ./.
+  (NP ""/NN))"
+Man Utd post record comeback with 94th-min goal to knock PSG out of CL,Manchester United defeated PSG 3-1 in Paris on Wednesday after losing 0-2 in Manchester to advance to Champions League quarter-finals on away goals. United became the first team in Champions League history to progress to the next round after losing first leg at home by at least two goals. Forward Marcus Rashford converted a 94th-minute penalty to help United advance. ,sports,Man Utd post record comeback with 94th-min goal to knock PSG out of CL. Manchester United defeated PSG 3-1 in Paris on Wednesday after losing 0-2 in Manchester to advance to Champions League quarter-finals on away goals. United became the first team in Champions League history to progress to the next round after losing first leg at home by at least two goals. Forward Marcus Rashford converted a 94th-minute penalty to help United advance. ,man utd post record comeback 94th min goal knock psg cl manchester unite defeat psg 3 1 paris wednesday lose 0 2 manchester advance champion league quarter final away goal unite become first team champion league history progress next round lose first leg home least two goal forward marcus rashford convert 94th minute penalty help unite advance,"(S
+  (NP
+    Man/NNP
+    Utd/NNP
+    post/NN
+    record/NN
+    comeback/NN
+    94th-min/JJ
+    goal/NN
+    knock/NN
+    PSG/NNP
+    CL./NNP
+    Manchester/NNP
+    United/NNP)
+  (VP defeated/VBD)
+  (NP PSG/NNP 3-1/JJ Paris/NNP Wednesday/NNP)
+  (VP losing/VBG)
+  (NP
+    0-2/JJ
+    Manchester/NNP
+    advance/NN
+    Champions/NNP
+    League/NNP
+    quarter-finals/NNS)
+  away/RB
+  goals./RB
+  (NP United/NNP)
+  (VP became/VBD)
+  (NP
+    first/JJ
+    team/NN
+    Champions/NNP
+    League/NNP
+    history/NN
+    progress/NN
+    next/JJ
+    round/NN)
+  (VP losing/VBG)
+  (NP
+    first/JJ
+    leg/NN
+    home/NN
+    least/JJS
+    two/CD
+    goals./JJ
+    Forward/NNP
+    Marcus/NNP
+    Rashford/NNP)
+  (VP converted/VBD)
+  (NP 94th-minute/CD penalty/NN help/NN United/NNP advance./NN))"
+"Player celebrates goal by climbing ladder, changing scorecard","During a second division match in Guatemala, Deportivo Carcha's Luis Acuna opened the scoring against Deportivo Jocotan and celebrated the goal by climbing a ladder to change the scoreboard. The Argentina-born midfielder converted a penalty in the 80th minute and did the celebration before being booked by the referee. Deportivo Carcha went on to win the match 1-0.",sports,"Player celebrates goal by climbing ladder, changing scorecard. During a second division match in Guatemala, Deportivo Carcha's Luis Acuna opened the scoring against Deportivo Jocotan and celebrated the goal by climbing a ladder to change the scoreboard. The Argentina-born midfielder converted a penalty in the 80th minute and did the celebration before being booked by the referee. Deportivo Carcha went on to win the match 1-0.",player celebrate goal climb ladder change scorecard second division match guatemala deportivo carcha luis acuna open scoring deportivo jocotan celebrate goal climb ladder change scoreboard argentina bear midfielder convert penalty 80th minute celebration book referee deportivo carcha go win match 1 0,"(S
+  (NP Player/NNP)
+  (VP celebrates/VBZ)
+  (NP goal/NN climbing/VBG ladder/NN)
+  ,/,
+  (VP changing/VBG)
+  (NP scorecard./JJ second/JJ division/NN match/NN Guatemala/NNP)
+  ,/,
+  (NP Deportivo/NNP Carchas/NNP Luis/NNP Acuna/NNP)
+  (VP opened/VBD scoring/VBG)
+  (NP Deportivo/NNP Jocotan/NNP)
+  (VP celebrated/VBD)
+  (NP goal/NN climbing/VBG ladder/JJR change/NN)
+  (VP scoreboard./VBD)
+  (NP Argentina-born/NNP midfielder/NN)
+  (VP converted/VBD)
+  (NP penalty/NN 80th/CD minute/NN celebration/NN)
+  (VP booked/VBD)
+  (NP referee./JJ Deportivo/NNP Carcha/NNP)
+  (VP went/VBD)
+  (NP win/JJ match/NN 1-0/CD)
+  ./.)"
+"Ritu Phogat shares pic while training for MMA, dedicates post to dad","Indian wrestlers Geeta and Babita Phogat's sister Ritu, who recently left wrestling for MMA, took to Twitter to share her picture while training and dedicated the post to her father. ""My dad once said, 'Main Apni Choriyo Ko Itna Qabil Banaonga Ke Choray Unhai Daikhne Nahi...Wo Choro Ko Daikhnai Jawaynge' #DangalGirls #girlpower #daddy #prouddaughter #thankyou,"" she wrote.",sports,"Ritu Phogat shares pic while training for MMA, dedicates post to dad. Indian wrestlers Geeta and Babita Phogat's sister Ritu, who recently left wrestling for MMA, took to Twitter to share her picture while training and dedicated the post to her father. ""My dad once said, 'Main Apni Choriyo Ko Itna Qabil Banaonga Ke Choray Unhai Daikhne Nahi...Wo Choro Ko Daikhnai Jawaynge' #DangalGirls #girlpower #daddy #prouddaughter #thankyou,"" she wrote.",ritu phogat share pic train mma dedicate post dad indian wrestler geeta babita phogat sister ritu recently leave wrestling mma take twitter share picture training dedicate post father dad say main apni choriyo ko itna qabil banaonga ke choray unhai daikhne nahi wo choro ko daikhnai jawaynge dangalgirl girlpower daddy prouddaughter thankyou write,"(S
+  (NP Ritu/NNP Phogat/NNP shares/NNS)
+  (VP pic/VBP training/VBG)
+  (NP MMA/NNP)
+  ,/,
+  (VP dedicates/VBZ)
+  (NP
+    post/NN
+    dad./NN
+    Indian/JJ
+    wrestlers/NNS
+    Geeta/NNP
+    Babita/NNP
+    Phogats/NNP
+    sister/NN
+    Ritu/NNP)
+  ,/,
+  recently/RB
+  (VP left/VBD)
+  (NP wrestling/NN MMA/NNP)
+  ,/,
+  (VP took/VBD)
+  (NP Twitter/NNP share/NN picture/NN training/NN)
+  (VP dedicated/VBN)
+  (NP post/NN father./NN ""/NNP dad/NN)
+  (VP said/VBD)
+  ,/,
+  (NP
+    Main/NNP
+    Apni/NNP
+    Choriyo/NNP
+    Ko/NNP
+    Itna/NNP
+    Qabil/NNP
+    Banaonga/NNP
+    Ke/NNP
+    Choray/NNP
+    Unhai/NNP
+    Daikhne/NNP
+    Nahi/NNP)
+  .../:
+  (NP
+    Wo/NNP
+    Choro/NNP
+    Ko/NNP
+    Daikhnai/NNP
+    Jawaynge/NNP
+    #DangalGirls/NNP
+    #girlpower/NNP
+    #daddy/NNP
+    #prouddaughter/NNP
+    #thankyou/NNP)
+  ,/,
+  (NP ""/NNP)
+  (VP wrote/VBD)
+  ./.)"
+Still seeking international ban on Pak despite ICC snub: COA chief,"Committee of Administrators (CoA) chairman Vinod Rai has said that the BCCI is still seeking a ban on Pakistan despite the ICC saying it was not their domain to sever ties with nations harbouring terrorism. ""Let the time come. [World Cup] is still four months away,"" Rai added. ""It is a process which goes slow,"" he added.",sports,"Still seeking international ban on Pak despite ICC snub: COA chief. Committee of Administrators (CoA) chairman Vinod Rai has said that the BCCI is still seeking a ban on Pakistan despite the ICC saying it was not their domain to sever ties with nations harbouring terrorism. ""Let the time come. [World Cup] is still four months away,"" Rai added. ""It is a process which goes slow,"" he added.",still seek international ban pak despite icc snub coa chief committee administrator coa chairman vinod rai say bcci still seek ban pakistan despite icc say not domain sever tie nation harbour terrorism let time come [ world cup ] still four month away rai add process go slow add,"(S
+  Still/RB
+  (VP seeking/VBG)
+  (NP international/JJ ban/NN Pak/NNP)
+  (PP despite/IN)
+  (NP ICC/NNP snub/NN)
+  :/:
+  (NP COA/NNP)
+  (VP chief./VBZ)
+  (NP Committee/NNP Administrators/NNP)
+  (/(
+  (NP CoA/NNP)
+  )/)
+  (NP chairman/NN Vinod/NNP Rai/NNP)
+  (VP said/VBD)
+  (NP BCCI/NNP)
+  still/RB
+  (VP seeking/VBG)
+  (NP ban/NN Pakistan/NNP)
+  (PP despite/IN)
+  (NP ICC/NNP saying/VBG)
+  not/RB
+  (VP domain/VB)
+  (NP sever/JJ ties/NNS nations/NNS)
+  (VP harbouring/VBG)
+  (NP terrorism./JJ ""/NNP Let/NNP time/NN)
+  (VP come./VB)
+  (NP [/JJ World/NNP Cup/NNP ]/NNP)
+  still/RB
+  (NP four/CD months/NNS)
+  away/RB
+  ,/,
+  (NP ""/JJ Rai/NNP added./NN ""/NNP process/NN)
+  (VP goes/VBZ slow/VB)
+  ,/,
+  (NP ""/NNP)
+  (VP added/VBD)
+  ./.)"
+"SA's Miller attempts quick stumping, Du Plessis calls him 'MS Dhoni'","During Sri Lanka's 32nd over in the second ODI against South Africa, South Africa batsman David Miller attempted a quick stumping off Imran Tahir when regular wicketkeeper Quinton de Kock had left the field. Miller quickly dislodged the bails after Vishwa Fernando missed a shot, after which South Africa captain Faf du Plessis termed Miller as 'MS Dhoni'.",sports,"SA's Miller attempts quick stumping, Du Plessis calls him 'MS Dhoni'. During Sri Lanka's 32nd over in the second ODI against South Africa, South Africa batsman David Miller attempted a quick stumping off Imran Tahir when regular wicketkeeper Quinton de Kock had left the field. Miller quickly dislodged the bails after Vishwa Fernando missed a shot, after which South Africa captain Faf du Plessis termed Miller as 'MS Dhoni'.",sas miller attempt quick stumping du plessis call ms dhoni sri lankas 32nd second odi south africa south africa batsman david miller attempt quick stumping imran tahir regular wicketkeeper quinton de kock leave field miller quickly dislodge bail vishwa fernando miss shot south africa captain faf du plessis term miller ms dhoni,"(S
+  (NP SAs/NNP Miller/NNP)
+  (VP attempts/VBZ)
+  (NP quick/JJ stumping/NN)
+  ,/,
+  (NP Du/NNP Plessis/NNP)
+  (VP calls/VBZ)
+  (NP
+    MS/NNP
+    Dhoni./NNP
+    Sri/NNP
+    Lankas/NNP
+    32nd/CD
+    second/JJ
+    ODI/NNP
+    South/NNP
+    Africa/NNP)
+  ,/,
+  (NP South/NNP Africa/NNP batsman/NN David/NNP Miller/NNP)
+  (VP attempted/VBD)
+  (NP quick/JJ stumping/NN Imran/NNP Tahir/NNP regular/JJ)
+  (PP wicketkeeper/IN)
+  (NP Quinton/NNP de/FW Kock/NNP)
+  (VP left/VBD)
+  (NP field./JJ Miller/NNP)
+  quickly/RB
+  (VP dislodged/VBD)
+  (NP bails/NNS Vishwa/NNP Fernando/NNP)
+  (VP missed/VBD)
+  (NP shot/NN)
+  ,/,
+  (NP South/NNP Africa/NNP)
+  (VP captain/VBP)
+  (NP Faf/NNP du/NN Plessis/NNP)
+  (VP termed/VBD)
+  (NP Miller/NNP MS/NNP Dhoni/NNP)
+  ./.)"
+23-yr-old Tushar to play Mumbai's next T20 despite mother's death,"Mumbai's 23-year-old fast bowler Tushar Deshpande will be playing for his team in Syed Mushtaq Ali Trophy on Friday in honour of his mother, who passed away of cancer on Tuesday. ""Thoughts about mummy will definitely come, but my mom wanted me to play well and nothing else. If I stop right now, then there's no point,"" Deshpande said.",sports,"23-yr-old Tushar to play Mumbai's next T20 despite mother's death. Mumbai's 23-year-old fast bowler Tushar Deshpande will be playing for his team in Syed Mushtaq Ali Trophy on Friday in honour of his mother, who passed away of cancer on Tuesday. ""Thoughts about mummy will definitely come, but my mom wanted me to play well and nothing else. If I stop right now, then there's no point,"" Deshpande said.",23yr old tushar play mumbai next t20 despite mother death mumbais 23year old fast bowler tushar deshpande play team syed mushtaq ali trophy friday honour mother pass away cancer tuesday thought mummy definitely come mom want play well nothing else stop right no point deshpande say,"(S
+  (NP 23-yr-old/JJ Tushar/NNP play/NN Mumbais/NNP next/JJ T20/NNP)
+  (PP despite/IN)
+  (NP mothers/NNS)
+  (VP death./VBP)
+  (NP Mumbais/NNP 23-year-old/JJ)
+  fast/RB
+  (NP bowler/NN Tushar/NNP Deshpande/NNP)
+  (VP playing/VBG)
+  (NP team/NN Syed/NNP Mushtaq/NNP Ali/NNP Trophy/NNP Friday/NNP)
+  (NP honour/PRP$ mother/NN)
+  ,/,
+  (VP passed/VBN away/RB)
+  (NP cancer/NN Tuesday./NNP ""/NNP Thoughts/NNP mummy/NN)
+  definitely/RB
+  (VP come/VBN)
+  ,/,
+  (NP mom/NN)
+  (VP wanted/VBD)
+  (NP play/NN)
+  well/RB
+  (NP nothing/NN else./JJ stop/NN right/NN)
+  ,/,
+  (NP no/DT point/NN)
+  ,/,
+  (NP ""/NNP Deshpande/NNP)
+  (VP said/VBD)
+  ./.)"
+All kinds of weird: Ritika on 'brother' Yuvraj wearing Rohit's jersey,"Mumbai Indians took to Instagram to share a picture of their new signing Yuvraj Singh wearing captain Rohit Sharma's jersey with the caption, ""Guess who?"" Reacting to the picture, Rohit's wife Ritika Sajdeh wrote, ""My brother wearing my husband's jersey is all kinds of weird."" Ritika used to manage Yuvraj and had become his 'rakhi sister' during the time. ",sports,"All kinds of weird: Ritika on 'brother' Yuvraj wearing Rohit's jersey. Mumbai Indians took to Instagram to share a picture of their new signing Yuvraj Singh wearing captain Rohit Sharma's jersey with the caption, ""Guess who?"" Reacting to the picture, Rohit's wife Ritika Sajdeh wrote, ""My brother wearing my husband's jersey is all kinds of weird."" Ritika used to manage Yuvraj and had become his 'rakhi sister' during the time. ",kind weird ritika brother yuvraj wear rohit jersey mumbai indian take instagram share picture new signing yuvraj singh wear captain rohit sharma jersey caption guess react picture rohit wife ritika sajdeh write brother wear husband jersey kind weird ritika use manage yuvraj become rakhi sister time,"(S
+  (NP kinds/NNS weird/JJ)
+  :/:
+  Ritika/FW
+  (NP brother/NN Yuvraj/NNP)
+  (VP wearing/VBG)
+  (NP Rohit/NNP jersey./NN Mumbai/NNP Indians/NNP)
+  (VP took/VBD)
+  (NP Instagram/NNP share/NN picture/NN new/JJ)
+  (VP signing/VBG)
+  (NP Yuvraj/NNP Singh/NNP)
+  (VP wearing/VBG)
+  (NP captain/NN Rohit/NNP Sharmas/NNP jersey/NN caption/NN)
+  ,/,
+  (NP ""/NNP Guess/NNP)
+  ?/.
+  (NP ""/NN Reacting/VBG picture/NN)
+  ,/,
+  (NP Rohit/NNP wife/NN Ritika/NNP Sajdeh/NNP)
+  (VP wrote/VBD)
+  ,/,
+  ""/FW
+  (NP brother/NN wearing/VBG husbands/NNS jersey/JJ kinds/NNS)
+  (VP weird./VBP)
+  (NP ""/JJ Ritika/NNP)
+  (VP used/VBD)
+  (NP manage/NN Yuvraj/NNP become/NN rakhi/NN sister/NN time./NN))"
+Disgrace: Gautam Gambhir on Kashmiri vendors beaten in Lucknow,"Reacting to two Kashmiri vendors being assaulted in Lucknow by saffron-clad men, former India cricketer Gautam Gambhir tweeted, ""Broad day light, bashing a Kashmiri trader in his own country! Disgrace!"" ""India is not only ours, it's theirs too,"" he added. A member of Vishwa Hindu Dal had shared videos of the attack on Facebook.",sports,"Disgrace: Gautam Gambhir on Kashmiri vendors beaten in Lucknow. Reacting to two Kashmiri vendors being assaulted in Lucknow by saffron-clad men, former India cricketer Gautam Gambhir tweeted, ""Broad day light, bashing a Kashmiri trader in his own country! Disgrace!"" ""India is not only ours, it's theirs too,"" he added. A member of Vishwa Hindu Dal had shared videos of the attack on Facebook.",disgrace gautam gambhir kashmiri vendor beat lucknow react two kashmiri vendor assault lucknow saffron clothe man former india cricketer gautam gambhir tweet broad day light bash kashmiri trader country disgrace india not add member vishwa hindu dal share video attack facebook,"(S
+  (NP Disgrace/NN)
+  :/:
+  (NP Gautam/NNP Gambhir/NNP Kashmiri/NNP vendors/NNS)
+  (VP beaten/VBP)
+  (NP Lucknow./NNP Reacting/NNP two/CD Kashmiri/NNP vendors/NNS)
+  (VP assaulted/VBD)
+  (NP Lucknow/NNP saffron-clad/JJ men/NNS)
+  ,/,
+  (NP former/JJ India/NNP cricketer/NN Gautam/NNP Gambhir/NNP)
+  (VP tweeted/VBD)
+  ,/,
+  (NP ""/JJ Broad/NNP day/NN)
+  (VP light/VBD)
+  ,/,
+  (VP bashing/VBG)
+  (NP Kashmiri/NNP trader/NN country/NN)
+  !/.
+  (NP Disgrace/NN)
+  !/.
+  (NP ""/JJ ""/NNP India/NNP)
+  not/RB
+  ,/,
+  ,/,
+  (NP ""/JJ added./JJ member/NN Vishwa/NNP Hindu/NNP Dal/NNP)
+  (VP shared/VBD)
+  (NP videos/JJ attack/NN Facebook/NNP)
+  ./.)"
+Happy inside & outside: Anil to Harbhajan on viral 'ageless' pic,"Reacting to cricketer Harbhajan Singh sharing a viral 'ageless' picture of him, actor Anil Kapoor replied that he is ""happy on the inside and outside"". ""The secret is dedication and hard work (and a few cheat days),"" he added. Anil's picture had gone viral on social media with users commenting that he does not look 62. ",sports,"Happy inside & outside: Anil to Harbhajan on viral 'ageless' pic. Reacting to cricketer Harbhajan Singh sharing a viral 'ageless' picture of him, actor Anil Kapoor replied that he is ""happy on the inside and outside"". ""The secret is dedication and hard work (and a few cheat days),"" he added. Anil's picture had gone viral on social media with users commenting that he does not look 62. ",happy inside outside anil harbhajan viral ageless pic react cricketer harbhajan singh share viral ageless picture actor anil kapoor reply happy inside outside secret dedication hard work cheat day add anil picture go viral social medium user comment not look 62,"(S
+  (NP Happy/JJ)
+  (PP inside/IN)
+  (NP &amp;/JJ)
+  (PP outside/IN)
+  :/:
+  (NP
+    Anil/NNP
+    Harbhajan/NNP
+    viral/JJ
+    ageless/NN
+    pic./NN
+    Reacting/NNP
+    cricketer/NN
+    Harbhajan/NNP
+    Singh/NNP)
+  (VP sharing/VBG)
+  (NP viral/JJ ageless/JJ picture/NN)
+  ,/,
+  (NP actor/NN Anil/NNP Kapoor/NNP)
+  (VP replied/VBD)
+  (NP ""/NNP happy/JJ)
+  (PP inside/IN)
+  (NP outside/JJ ""/NNP)
+  ./.
+  (NP ""/NN secret/JJ dedication/NN hard/JJ work/NN)
+  (/(
+  (NP cheat/JJ days/NNS)
+  )/)
+  ,/,
+  (NP ""/JJ added./NN Anils/NNP picture/NN)
+  (VP gone/VBN)
+  (NP viral/JJ social/JJ media/NNS users/NNS)
+  (VP commenting/VBG not/RB look/VB)
+  (NP 62./CD))"
+"Kohli took 133 innings to smash his 1st 20 ODI tons, 83 for next 20","Team India captain Virat Kohli on Tuesday smashed his 40th ODI hundred, taking 216 innings to reach the milestone. Kohli had slammed his first 20 ODI hundreds in 133 innings and took just 83 innings to smash his next 20 hundreds. Further, Kohli took just 30 innings to reach 40 ODI tons from 30 ODI tons.",sports,"Kohli took 133 innings to smash his 1st 20 ODI tons, 83 for next 20. Team India captain Virat Kohli on Tuesday smashed his 40th ODI hundred, taking 216 innings to reach the milestone. Kohli had slammed his first 20 ODI hundreds in 133 innings and took just 83 innings to smash his next 20 hundreds. Further, Kohli took just 30 innings to reach 40 ODI tons from 30 ODI tons.",kohli take 133 inning smash 1st 20 odi ton 83 next 20 team india captain virat kohli tuesday smash 40th odi hundred take 216 inning reach milestone kohli slam first 20 odi hundred 133 inning take 83 inning smash next 20 hundred kohli take 30 inning reach 40 odi ton 30 odi ton,"(S
+  (NP Kohli/NNP)
+  (VP took/VBD)
+  (NP 133/CD innings/NNS)
+  (VP smash/VBD)
+  (NP 1st/CD 20/CD ODI/NNP tons/NNS)
+  ,/,
+  (NP
+    83/CD
+    next/JJ
+    20./CD
+    Team/NNP
+    India/NNP
+    captain/NN
+    Virat/NNP
+    Kohli/NNP
+    Tuesday/NNP)
+  (VP smashed/VBD)
+  (NP 40th/CD ODI/NNP)
+  (VP hundred/VBD)
+  ,/,
+  (VP taking/VBG)
+  (NP 216/CD innings/NNS)
+  (VP reach/VBP)
+  (NP milestone./JJ Kohli/NNP)
+  (VP slammed/VBD first/RB)
+  (NP 20/CD ODI/NNP hundreds/NNS 133/CD innings/NNS)
+  (VP took/VBD)
+  (NP 83/CD innings/NNS)
+  (VP smash/VBP)
+  (NP next/JJ 20/CD hundreds./NN)
+  ,/,
+  (NP Kohli/NNP)
+  (VP took/VBD)
+  (NP 30/CD innings/NNS)
+  (VP reach/VBP)
+  (NP 40/CD ODI/NNP tons/NNS 30/CD ODI/NNP tons/NNS)
+  ./.)"
+117th-minute VAR penalty by Porto sends Roma out of CL,"Portuguese club Porto converted a 117th-minute penalty in extra time following a VAR review to beat Roma 4-3 on aggregate on Wednesday and enter the quarter-finals of Champions League. Porto beat the Italian side 3-1 in the second leg, reaching quarter-finals for the first time since 2014-15. Roma have lost each of their past eight Champions League away knockout games.",sports,"117th-minute VAR penalty by Porto sends Roma out of CL. Portuguese club Porto converted a 117th-minute penalty in extra time following a VAR review to beat Roma 4-3 on aggregate on Wednesday and enter the quarter-finals of Champions League. Porto beat the Italian side 3-1 in the second leg, reaching quarter-finals for the first time since 2014-15. Roma have lost each of their past eight Champions League away knockout games.",117th minute var penalty porto send roma cl portuguese club porto convert 117th minute penalty extra time follow var review beat roma 4 3 aggregate wednesday enter quarter final champion league porto beat italian side 3 1 second leg reach quarter final first time since 2014 15 roma lose past eight champion league away knockout game,"(S
+  (NP 117th-minute/JJ VAR/NNP penalty/NN Porto/NNP)
+  (VP sends/VBZ)
+  (NP Roma/NNP CL./NNP Portuguese/NNP club/NN Porto/NNP)
+  (VP converted/VBD)
+  (NP 117th-minute/JJ penalty/NN extra/JJ time/NN)
+  (VP following/VBG)
+  (NP VAR/NNP review/NN)
+  (VP beat/VBD)
+  (NP Roma/NNP 4-3/JJ aggregate/NN Wednesday/NNP)
+  (NP
+    enter/POS
+    quarter-finals/NNS
+    Champions/NNP
+    League./NNP
+    Porto/NNP
+    beat/NN
+    Italian/JJ
+    side/NN
+    3-1/JJ
+    second/JJ
+    leg/NN)
+  ,/,
+  (VP reaching/VBG)
+  (NP quarter-finals/NNS first/JJ time/NN)
+  (PP since/IN)
+  (NP 2014-15./JJ Roma/NNP)
+  (VP lost/VBD)
+  (NP past/JJ eight/CD Champions/NNP League/NNP)
+  away/RB
+  (VP knockout/VBD)
+  (NP games/NNS)
+  ./.)"
+Ex-Aus coach Lehmann to coach Big Bash League team: Report,"Former Australian team coach Darren Lehmann will reportedly take over as the coach of the Big Bash League side Brisbane Heat. Lehmann, who quit as Australia's coach after the ball-tampering scandal, will take over the reins from former New Zealand captain Daniel Vettori. Lehmann had earlier coached Brisbane Heat in the 2012-13 season.",sports,"Ex-Aus coach Lehmann to coach Big Bash League team: Report. Former Australian team coach Darren Lehmann will reportedly take over as the coach of the Big Bash League side Brisbane Heat. Lehmann, who quit as Australia's coach after the ball-tampering scandal, will take over the reins from former New Zealand captain Daniel Vettori. Lehmann had earlier coached Brisbane Heat in the 2012-13 season.",ex aus coach lehmann coach big bash league team report former australian team coach darren lehmann reportedly take coach big bash league side brisbane heat lehmann quit australias coach ball tamper scandal take rein former new zealand captain daniel vettori lehmann earlier coach brisbane heat 2012 13 season,"(S
+  (NP
+    Ex-Aus/JJ
+    coach/NN
+    Lehmann/NNP
+    coach/NN
+    Big/NNP
+    Bash/NNP
+    League/NNP
+    team/NN)
+  :/:
+  (NP
+    Report./NNP
+    Former/NNP
+    Australian/NNP
+    team/NN
+    coach/NN
+    Darren/NNP
+    Lehmann/NNP)
+  reportedly/RB
+  (VP take/VBP)
+  (NP
+    coach/NN
+    Big/NNP
+    Bash/NNP
+    League/NNP
+    side/NN
+    Brisbane/NNP
+    Heat./NNP
+    Lehmann/NNP)
+  ,/,
+  (NP quit/NN Australias/NNP)
+  (VP coach/VBP)
+  (NP ball-tampering/NN scandal/NN)
+  ,/,
+  (VP take/VBP)
+  (NP reins/NNS former/JJ New/NNP Zealand/NNP)
+  (VP captain/VBP)
+  (NP Daniel/NNP Vettori./NNP Lehmann/NNP)
+  earlier/RB
+  (VP coached/VBD)
+  (NP Brisbane/NNP Heat/NNP 2012-13/JJ season/NN)
+  ./.)"
+16-year-old TN boy becomes India's 61st chess Grandmaster,"Tamil Nadu's 16-year-old P Iniyan defeated Ukraine's 37-year-old Grandmaster Sergey Fedorchuk in Noisiel Open chess tournament in France on Tuesday to become India's 61st Grandmaster. Iniyan crossed the mandatory 2500-mark in ELO ratings with the win to achieve the feat. ""My rating was fluctuating between 2485 and 2495. I am relieved now,"" Iniyan said after reaching the milestone.",sports,"16-year-old TN boy becomes India's 61st chess Grandmaster. Tamil Nadu's 16-year-old P Iniyan defeated Ukraine's 37-year-old Grandmaster Sergey Fedorchuk in Noisiel Open chess tournament in France on Tuesday to become India's 61st Grandmaster. Iniyan crossed the mandatory 2500-mark in ELO ratings with the win to achieve the feat. ""My rating was fluctuating between 2485 and 2495. I am relieved now,"" Iniyan said after reaching the milestone.",16year old tn boy become indias 61st chess grandmaster tamil nadus 16year old p iniyan defeat ukraine 37year old grandmaster sergey fedorchuk noisiel open chess tournament france tuesday become indias 61st grandmaster iniyan cross mandatory 2500mark elo rating win achieve feat rating fluctuate 2485 2495 relieve iniyan say reach milestone,"(S
+  (NP 16-year-old/JJ TN/NNP boy/NN)
+  (VP becomes/VBZ)
+  (NP
+    Indias/NNP
+    61st/CD
+    chess/NN
+    Grandmaster./NNP
+    Tamil/NNP
+    Nadus/NNP
+    16-year-old/JJ
+    P/NNP
+    Iniyan/NNP)
+  (VP defeated/VBD)
+  (NP
+    Ukraines/NNP
+    37-year-old/JJ
+    Grandmaster/NNP
+    Sergey/NNP
+    Fedorchuk/NNP
+    Noisiel/NNP
+    Open/NNP
+    chess/NN
+    tournament/NN
+    France/NNP
+    Tuesday/NNP)
+  (VP become/VB)
+  (NP Indias/NNP 61st/CD Grandmaster./NNP Iniyan/NNP)
+  (VP crossed/VBD)
+  (NP mandatory/JJ 2500-mark/JJ ELO/NNP ratings/NNS)
+  (VP win/VBP)
+  (NP
+    achieve/JJ
+    feat./NN
+    ""/NN
+    rating/NN
+    fluctuating/NN
+    2485/CD
+    2495./CD)
+  (VP relieved/VBN)
+  ,/,
+  (NP ""/NNP Iniyan/NNP)
+  (VP said/VBD reaching/VBG)
+  (NP milestone/NN)
+  ./.)"
+Du Plessis 2nd SA player with 7 consecutive 50+ int'l scores,"South African captain Faf du Plessis became the second player from the nation to post seven consecutive scores of over 50 runs in international cricket after crossing the 50-run landmark against Sri Lanka on Wednesday. Du Plessis matched the record set by Aubrey Faulkner, who also made seven such consecutive scores from 1910 to 1912.",sports,"Du Plessis 2nd SA player with 7 consecutive 50+ int'l scores. South African captain Faf du Plessis became the second player from the nation to post seven consecutive scores of over 50 runs in international cricket after crossing the 50-run landmark against Sri Lanka on Wednesday. Du Plessis matched the record set by Aubrey Faulkner, who also made seven such consecutive scores from 1910 to 1912.",du plessis 2nd sa player 7 consecutive 50 intl score south african captain faf du plessis become second player nation post seven consecutive score 50 run international cricket cross 50run landmark sri lanka wednesday du plessis match record set aubrey faulkner also make seven consecutive score 1910 1912,"(S
+  (NP
+    Du/NNP
+    Plessis/NNP
+    2nd/CD
+    SA/NNP
+    player/NN
+    7/CD
+    consecutive/JJ
+    50+/CD
+    intl/NN
+    scores./NN
+    South/NNP
+    African/NNP
+    captain/NN
+    Faf/NNP
+    du/JJ
+    Plessis/NNP)
+  (VP became/VBD)
+  (NP second/JJ player/NN nation/NN)
+  (VP post/VBD)
+  (NP
+    seven/CD
+    consecutive/JJ
+    scores/NNS
+    50/CD
+    runs/NNS
+    international/JJ
+    cricket/NN)
+  (VP crossing/VBG)
+  (NP
+    50-run/JJ
+    landmark/NN
+    Sri/NNP
+    Lanka/NNP
+    Wednesday./NNP
+    Du/NNP
+    Plessis/NNP)
+  (VP matched/VBD)
+  (NP record/NN set/VBN Aubrey/NNP Faulkner/NNP)
+  ,/,
+  also/RB
+  (VP made/VBD)
+  (NP seven/CD consecutive/JJ scores/NNS 1910/CD 1912/CD)
+  ./.)"
+Former world number one Murray 'pain free' after hip surgery,"Former world number one male tennis player Andy Murray says he is ""pain free"" after hip surgery but that his chances of playing singles at Wimbledon this year are ""less than 50%"". ""I don't feel any pressure to come back and play. I don't feel like I have to get back to playing Wimbledon or playing tennis again,"" Murray said.",sports,"Former world number one Murray 'pain free' after hip surgery. Former world number one male tennis player Andy Murray says he is ""pain free"" after hip surgery but that his chances of playing singles at Wimbledon this year are ""less than 50%"". ""I don't feel any pressure to come back and play. I don't feel like I have to get back to playing Wimbledon or playing tennis again,"" Murray said.",former world number one murray pain free hip surgery former world number one male tennis player andy murray say pain free hip surgery chance play single wimbledon year less 50 not feel pressure come back play not feel like get back play wimbledon play tennis murray say,"(S
+  (NP
+    Former/JJ
+    world/NN
+    number/NN
+    one/CD
+    Murray/NNP
+    pain/NN
+    free/JJ
+    hip/NN)
+  (VP surgery./VBD)
+  (NP
+    Former/NNP
+    world/NN
+    number/NN
+    one/CD
+    male/NN
+    tennis/NN
+    player/NN
+    Andy/NNP
+    Murray/NNP)
+  (VP says/VBZ ""/VB)
+  (NP pain/NN free/JJ ""/NNP hip/NN surgery/NN chances/NNS)
+  (VP playing/VBG)
+  (NP singles/NNS Wimbledon/NNP year/NN)
+  ""/RB
+  less/RBR
+  (NP 50/CD %/NN ""/NN)
+  ./.
+  ""/CC
+  not/RB
+  (VP feel/VB)
+  (NP pressure/NN come/VBN)
+  back/RB
+  (PP play./IN)
+  (NP not/RB)
+  (VP feel/VB)
+  (PP like/IN)
+  (NP get/VB)
+  back/RB
+  (VP playing/VBG)
+  (NP Wimbledon/NNP playing/VBG tennis/NN)
+  ,/,
+  (NP ""/NNP Murray/NNP)
+  (VP said/VBD)
+  ./.)"
+Pak intel carried out bomb blasts in India during my time: Musharraf,"Ex-Pakistani President Pervez Musharraf has admitted that Pakistani intelligence carried out bomb blasts in India during his rule ""in a tit-for-tat response to attacks in Pakistan by the Indian intelligence"". He said Jaish-e-Mohammed (JeM) had attempted to assassinate him in 2003. Musharraf supported Pakistan's crackdown on Mumbai terror attack mastermind Hafiz Saeed's terror group Jamaat-ud-Dawa.",world,"Pak intel carried out bomb blasts in India during my time: Musharraf. Ex-Pakistani President Pervez Musharraf has admitted that Pakistani intelligence carried out bomb blasts in India during his rule ""in a tit-for-tat response to attacks in Pakistan by the Indian intelligence"". He said Jaish-e-Mohammed (JeM) had attempted to assassinate him in 2003. Musharraf supported Pakistan's crackdown on Mumbai terror attack mastermind Hafiz Saeed's terror group Jamaat-ud-Dawa.",pak intel carry bomb blast india time musharraf ex pakistani president pervez musharraf admit pakistani intelligence carry bomb blast india rule tit tat response attack pakistan indian intelligence say jaish e mohammed jem attempt assassinate 2003 musharraf support pakistan crackdown mumbai terror attack mastermind hafiz saeed terror group jamaat ud dawa,"(S
+  (NP Pak/NNP intel/NN)
+  (VP carried/VBD)
+  (NP bomb/JJ blasts/NNS India/NNP time/NN)
+  :/:
+  (NP
+    Musharraf./JJ
+    Ex-Pakistani/NNP
+    President/NNP
+    Pervez/NNP
+    Musharraf/NNP)
+  (VP admitted/VBD)
+  (NP Pakistani/NNP intelligence/NN)
+  (VP carried/VBD)
+  (NP bomb/JJ blasts/NNS India/NNP rule/NN)
+  (VP ""/VBD)
+  (NP
+    tit-for-tat/JJ
+    response/NN
+    attacks/NNS
+    Pakistan/NNP
+    Indian/JJ
+    intelligence/NN
+    ""/NNP)
+  ./.
+  (VP said/VBD)
+  (NP Jaish-e-Mohammed/NNP)
+  (/(
+  (NP JeM/NNP)
+  )/)
+  (VP attempted/VBD)
+  (NP assassinate/JJ 2003./CD Musharraf/NNP)
+  (VP supported/VBD)
+  (NP
+    Pakistans/NNPS
+    crackdown/JJ
+    Mumbai/NNP
+    terror/NN
+    attack/NN
+    mastermind/NN
+    Hafiz/NNP
+    Saeeds/NNP
+    terror/NN
+    group/NN
+    Jamaat-ud-Dawa/NNP)
+  ./.)"
+Played essential role in de-escalating India-Pakistan tensions: US,"The US has said it played an essential role in de-escalating the tensions between India and Pakistan. ""High-level contact has continued"" and ""there's a lot of private diplomacy that's going on right now"", State Department deputy spokesperson Robert Palladino said. The US is closely following the reports of Pakistan's potential misuse of F-16 jets against India, he added.",world,"Played essential role in de-escalating India-Pakistan tensions: US. The US has said it played an essential role in de-escalating the tensions between India and Pakistan. ""High-level contact has continued"" and ""there's a lot of private diplomacy that's going on right now"", State Department deputy spokesperson Robert Palladino said. The US is closely following the reports of Pakistan's potential misuse of F-16 jets against India, he added.",play essential role de escalate india pakistan tension us us say play essential role de escalate tension india pakistan high level contact continue lot private diplomacy go right state department deputy spokesperson robert palladino say us closely follow report pakistan potential misuse f16 jet india add,"(S
+  (NP
+    Played/NNP
+    essential/JJ
+    role/NN
+    de-escalating/JJ
+    India-Pakistan/JJ
+    tensions/NNS)
+  :/:
+  (NP US./NNP US/NNP)
+  (VP said/VBD played/VBN)
+  (NP
+    essential/JJ
+    role/NN
+    de-escalating/JJ
+    tensions/NNS
+    India/NNP
+    Pakistan./NNP
+    ""/NNP
+    High-level/NNP
+    contact/NN)
+  (VP continued/VBD)
+  (NP ""/NNP ""/NNP lot/NN private/JJ diplomacy/NN)
+  (VP going/VBG)
+  (NP right/JJ ""/NN)
+  ,/,
+  (NP
+    State/NNP
+    Department/NNP
+    deputy/NN
+    spokesperson/NN
+    Robert/NNP
+    Palladino/NNP)
+  (VP said./VBD)
+  (NP US/NNP)
+  closely/RB
+  (VP following/VBG)
+  (NP
+    reports/NNS
+    Pakistans/NNPS
+    potential/JJ
+    misuse/NN
+    F-16/NNP
+    jets/NNS
+    India/NNP)
+  ,/,
+  (VP added/VBD)
+  ./.)"
+Tensions with India appear to be de-escalating: Pakistan,"The tensions between India and Pakistan appear to be de-escalating, Pakistan Foreign Minister Shah Mahmood Qureshi said on Wednesday. Qureshi added that ""Pakistan has further increased diplomatic efforts"" and the country has decided to send back the Pakistani High Commissioner to India. ""The US through private diplomacy played a role in de-escalating the tensions,"" he further said.",world,"Tensions with India appear to be de-escalating: Pakistan. The tensions between India and Pakistan appear to be de-escalating, Pakistan Foreign Minister Shah Mahmood Qureshi said on Wednesday. Qureshi added that ""Pakistan has further increased diplomatic efforts"" and the country has decided to send back the Pakistani High Commissioner to India. ""The US through private diplomacy played a role in de-escalating the tensions,"" he further said.",tension india appear de escalating pakistan tension india pakistan appear de escalating pakistan foreign minister shah mahmood qureshi say wednesday qureshi add pakistan increase diplomatic effort country decide send back pakistani high commissioner india us private diplomacy play role de escalate tension say,"(S
+  (NP Tensions/NNS India/NNP)
+  (VP appear/VBP)
+  (NP de-escalating/NN)
+  :/:
+  (NP Pakistan./NNP tensions/NNS India/NNP Pakistan/NNP)
+  (VP appear/VBP)
+  (NP de-escalating/NN)
+  ,/,
+  (NP
+    Pakistan/NNP
+    Foreign/NNP
+    Minister/NNP
+    Shah/NNP
+    Mahmood/NNP
+    Qureshi/NNP)
+  (VP said/VBD)
+  (NP Wednesday./NNP Qureshi/NNP)
+  (VP added/VBD)
+  (NP ""/JJ Pakistan/NNP)
+  (VP increased/VBD)
+  (NP diplomatic/JJ efforts/NNS)
+  (VP ""/VBP)
+  (NP country/NN)
+  (VP decided/VBD send/VBP)
+  back/RB
+  (NP
+    Pakistani/NNP
+    High/NNP
+    Commissioner/NNP
+    India./NNP
+    ""/NNP
+    US/NNP
+    private/JJ
+    diplomacy/NN)
+  (VP played/VBD)
+  (NP role/NN de-escalating/JJ tensions/NNS)
+  ,/,
+  (NP ""/NNP)
+  (VP said/VBD)
+  ./.)"
+China sends minister to Pakistan to discuss Indo-Pak tensions,"China announced on Wednesday that it has sent its Vice Foreign Minister Kong Xuanyou to Islamabad to discuss the tensions between India and Pakistan. ""China has been promoting peace and stability in this region. We hope that Pakistan and India will maintain friendly relations,"" Chinese Foreign Ministry spokesperson Lu Kang said.",world,"China sends minister to Pakistan to discuss Indo-Pak tensions. China announced on Wednesday that it has sent its Vice Foreign Minister Kong Xuanyou to Islamabad to discuss the tensions between India and Pakistan. ""China has been promoting peace and stability in this region. We hope that Pakistan and India will maintain friendly relations,"" Chinese Foreign Ministry spokesperson Lu Kang said.",china send minister pakistan discuss indo pak tension china announce wednesday send vice foreign minister kong xuanyou islamabad discuss tension india pakistan china promote peace stability region hope pakistan india maintain friendly relation chinese foreign ministry spokesperson lu kang say,"(S
+  (NP China/NNP)
+  (VP sends/VBZ)
+  (NP minister/NN Pakistan/NNP)
+  (VP discuss/VBZ)
+  (NP Indo-Pak/NNP tensions./NN China/NNP)
+  (VP announced/VBD)
+  (NP Wednesday/NNP)
+  (VP sent/VBD)
+  (NP
+    Vice/NNP
+    Foreign/NNP
+    Minister/NNP
+    Kong/NNP
+    Xuanyou/NNP
+    Islamabad/NNP
+    discuss/NN
+    tensions/NNS
+    India/NNP
+    Pakistan./NNP
+    ""/NNP
+    China/NNP)
+  (VP promoting/VBG)
+  (NP peace/NN stability/NN)
+  (VP region./VBP)
+  (NP hope/NN Pakistan/NNP India/NNP)
+  (VP maintain/VBP)
+  (NP friendly/JJ relations/NNS)
+  ,/,
+  (VP ""/VBZ)
+  (NP Chinese/NNP Foreign/NNP Ministry/NNP)
+  (VP spokesperson/VBD)
+  (NP Lu/NNP Kang/NNP)
+  (VP said/VBD)
+  ./.)"
+Pak Army says no JeM in Pak days after Pak govt admits its presence,"Pakistan Army Spokesperson Major General Asif Ghafoor has claimed that terror group Jaish-e-Mohammed (JeM) does not exist in the country. Pakistan Foreign Minister Shah Mahmood Qureshi had admitted on February 28 that JeM chief Masood Azhar is in Pakistan, adding that he's ""very unwell"". JeM claimed responsibility for the February 14 Pulwama attack in which 40 CRPF personnel were martyred.",world,"Pak Army says no JeM in Pak days after Pak govt admits its presence. Pakistan Army Spokesperson Major General Asif Ghafoor has claimed that terror group Jaish-e-Mohammed (JeM) does not exist in the country. Pakistan Foreign Minister Shah Mahmood Qureshi had admitted on February 28 that JeM chief Masood Azhar is in Pakistan, adding that he's ""very unwell"". JeM claimed responsibility for the February 14 Pulwama attack in which 40 CRPF personnel were martyred.",pak army say no jem pak day pak govt admit presence pakistan army spokesperson major general asif ghafoor claim terror group jaish e mohammed jem not exist country pakistan foreign minister shah mahmood qureshi admit february 28 jem chief masood azhar pakistan add unwell jem claim responsibility february 14 pulwama attack 40 crpf personnel martyr,"(S
+  (NP Pak/NNP Army/NNP)
+  (VP says/VBZ)
+  (NP no/DT JeM/NNP Pak/NNP days/NNS Pak/NNP)
+  (VP govt/VBP)
+  (NP admits/NNS)
+  (VP presence./VBP)
+  (NP
+    Pakistan/NNP
+    Army/NNP
+    Spokesperson/NNP
+    Major/NNP
+    General/NNP
+    Asif/NNP
+    Ghafoor/NNP)
+  (VP claimed/VBD)
+  (NP terror/NN group/NN Jaish-e-Mohammed/NNP)
+  (/(
+  (NP JeM/NNP)
+  )/)
+  not/RB
+  (VP exist/VB)
+  (NP
+    country./JJ
+    Pakistan/NNP
+    Foreign/NNP
+    Minister/NNP
+    Shah/NNP
+    Mahmood/NNP
+    Qureshi/NNP)
+  (VP admitted/VBD)
+  (NP
+    February/NNP
+    28/CD
+    JeM/NNP
+    chief/JJ
+    Masood/NNP
+    Azhar/NNP
+    Pakistan/NNP)
+  ,/,
+  (VP adding/VBG)
+  (NP ""/NN unwell/NN ""/NNP)
+  ./.
+  (NP JeM/NNP)
+  (VP claimed/VBD)
+  (NP
+    responsibility/NN
+    February/NNP
+    14/CD
+    Pulwama/NNP
+    attack/NN
+    40/CD
+    CRPF/NNP
+    personnel/NNS)
+  (VP martyred/VBD)
+  ./.)"
+Was raped in Air Force: 1st US female fighter pilot to fly in combat,"US Senator Martha McSally, who was the first female US fighter pilot to fly in combat, has revealed she ""was preyed upon and raped by a superior officer"" while in the Air Force. Talking about how her attempt to share her experiences was handled, McSally said, ""Like many victims, I felt like the system was raping me all over again.""",world,"Was raped in Air Force: 1st US female fighter pilot to fly in combat. US Senator Martha McSally, who was the first female US fighter pilot to fly in combat, has revealed she ""was preyed upon and raped by a superior officer"" while in the Air Force. Talking about how her attempt to share her experiences was handled, McSally said, ""Like many victims, I felt like the system was raping me all over again.""",rap air force 1st us female fighter pilot fly combat us senator martha mcsally first female us fighter pilot fly combat reveal prey upon rap superior officer air force talk attempt share experience handle mcsally say like many victim feel like system rap,"(S
+  raped/VBD
+  (NP Air/NNP Force/NNP)
+  :/:
+  (NP 1st/CD US/NNP female/JJ fighter/NN pilot/NN fly/NN)
+  (VP combat./VBP)
+  (NP US/NNP Senator/NNP Martha/NNP McSally/NNP)
+  ,/,
+  first/RB
+  (NP female/JJ US/NNP fighter/NN pilot/NN fly/NN combat/NN)
+  ,/,
+  (VP revealed/VBD)
+  (NP ""/JJ preyed/VBN)
+  (PP upon/IN)
+  (NP
+    raped/JJ
+    superior/JJ
+    officer/NN
+    ""/NNP
+    Air/NNP
+    Force./NNP
+    Talking/NNP
+    attempt/NN
+    share/NN)
+  (VP experiences/VBZ handled/VBN)
+  ,/,
+  (NP McSally/NNP)
+  (VP said/VBD)
+  ,/,
+  (NP ""/NNP)
+  (PP Like/IN)
+  (NP many/JJ victims/NNS)
+  ,/,
+  (VP felt/VBD)
+  (PP like/IN)
+  (NP system/NN raping/VBG)
+  ./.
+  (NP ""/NN))"
+Pakistan names pilots who it claims shot down 2 Indian jets,"Pakistan's Foreign Minister Shah Mahmood Qureshi on Wednesday named Pakistan Air Force pilots who he claims downed two Indian jets. ""One Indian jet was shot down by Squadron Leader Hassan Siddiqui while other was downed by Wing Commander Nauman Ali Khan,"" Qureshi said. India said that it lost only one MiG-21 Bison and had shot down one Pakistani F-16 jet.",world,"Pakistan names pilots who it claims shot down 2 Indian jets. Pakistan's Foreign Minister Shah Mahmood Qureshi on Wednesday named Pakistan Air Force pilots who he claims downed two Indian jets. ""One Indian jet was shot down by Squadron Leader Hassan Siddiqui while other was downed by Wing Commander Nauman Ali Khan,"" Qureshi said. India said that it lost only one MiG-21 Bison and had shot down one Pakistani F-16 jet.",pakistan name pilot claim shoot 2 indian jet pakistan foreign minister shah mahmood qureshi wednesday name pakistan air force pilot claim two indian jet one indian jet shoot squadron leader hassan siddiqui wing commander nauman ali khan qureshi say india say lose one mig21 bison shoot one pakistani f16 jet,"(S
+  (NP Pakistan/NNP names/NNS pilots/NNS claims/NNS)
+  (VP shot/VBP)
+  (NP
+    2/CD
+    Indian/JJ
+    jets./NN
+    Pakistans/NNP
+    Foreign/NNP
+    Minister/NNP
+    Shah/NNP
+    Mahmood/NNP
+    Qureshi/NNP
+    Wednesday/NNP)
+  (VP named/VBD)
+  (NP Pakistan/NNP Air/NNP Force/NNP pilots/NNS claims/NNS)
+  (VP downed/VBD)
+  (NP
+    two/CD
+    Indian/JJ
+    jets./NN
+    ""/NNP
+    One/NNP
+    Indian/NNP
+    jet/NN
+    shot/NN
+    Squadron/NNP
+    Leader/NNP
+    Hassan/NNP
+    Siddiqui/NNP)
+  (VP downed/VBD)
+  (NP Wing/NNP Commander/NNP Nauman/NNP Ali/NNP Khan/NNP)
+  ,/,
+  (NP ""/NNP Qureshi/NNP)
+  (VP said./VBD)
+  (NP India/NNP)
+  (VP said/VBD lost/VBN)
+  (NP one/CD MiG-21/NNP Bison/NNP)
+  (VP shot/VBD)
+  (NP one/CD Pakistani/NNP F-16/NNP jet/NN)
+  ./.)"
+"War averted because of timely, correct decisions: Pakistan PM","Pakistan PM Imran Khan has said that tensions with India have eased and added that it was because of ""timely and correct decisions"" that war was averted. Khan reportedly said the crackdown against terror organisations was not made under any pressure. His comments came as he addressed a meeting of the PTI parliamentary party on Wednesday.",world,"War averted because of timely, correct decisions: Pakistan PM. Pakistan PM Imran Khan has said that tensions with India have eased and added that it was because of ""timely and correct decisions"" that war was averted. Khan reportedly said the crackdown against terror organisations was not made under any pressure. His comments came as he addressed a meeting of the PTI parliamentary party on Wednesday.",war avert timely correct decision pakistan pm pakistan pm imran khan say tension india ease add timely correct decision war avert khan reportedly say crackdown terror organisation not make pressure comment come address meeting pti parliamentary party wednesday,"(S
+  (NP War/NNP)
+  (VP averted/VBD timely/RB)
+  ,/,
+  (NP correct/JJ decisions/NNS)
+  :/:
+  (NP Pakistan/NNP PM./NNP Pakistan/NNP PM/NNP Imran/NNP Khan/NNP)
+  (VP said/VBD)
+  (NP tensions/NNS India/NNP)
+  (VP eased/VBD)
+  (NP added/JJ ""/NNP)
+  timely/RB
+  (VP correct/VBP)
+  (NP decisions/NNS ""/NNP war/NN averted./NN Khan/NNP)
+  reportedly/RB
+  (VP said/VBD)
+  (NP crackdown/JJ terror/NN organisations/NNS)
+  not/RB
+  (VP made/VBN)
+  (NP pressure./NN comments/NNS)
+  (VP came/VBD)
+  (NP
+    addressed/JJ
+    meeting/NN
+    PTI/NNP
+    parliamentary/NN
+    party/NN
+    Wednesday/NNP)
+  ./.)"
+Donald Trump mistakenly calls Apple CEO Tim Cook 'Tim Apple',"US President Donald Trump mistakenly called Apple CEO Tim Cook 'Tim Apple' at a conference in the White House. In videos that surfaced online, Tim Cook, who is sitting next to Trump, can be seen nodding after Trump's mistake. ""You have really put a big investment in our country. We really appreciate it very much, Tim Apple,"" Trump said.",world,"Donald Trump mistakenly calls Apple CEO Tim Cook 'Tim Apple'. US President Donald Trump mistakenly called Apple CEO Tim Cook 'Tim Apple' at a conference in the White House. In videos that surfaced online, Tim Cook, who is sitting next to Trump, can be seen nodding after Trump's mistake. ""You have really put a big investment in our country. We really appreciate it very much, Tim Apple,"" Trump said.",donald trump mistakenly call apple ceo tim cook tim apple us president donald trump mistakenly call apple ceo tim cook tim apple conference white house video surface online tim cook sit next trump see nod trump mistake really put big investment country really appreciate much tim apple trump say,"(S
+  (NP Donald/NNP Trump/NNP)
+  mistakenly/RB
+  (VP calls/VBZ)
+  (NP
+    Apple/NNP
+    CEO/NNP
+    Tim/NNP
+    Cook/NNP
+    Tim/NNP
+    Apple./NNP
+    US/NNP
+    President/NNP
+    Donald/NNP
+    Trump/NNP)
+  mistakenly/RB
+  (VP called/VBD)
+  (NP
+    Apple/NNP
+    CEO/NNP
+    Tim/NNP
+    Cook/NNP
+    Tim/NNP
+    Apple/NNP
+    conference/NN
+    White/NNP
+    House./NNP
+    videos/NN)
+  (VP surfaced/VBD)
+  (NP online/NN)
+  ,/,
+  (NP Tim/NNP Cook/NNP)
+  ,/,
+  (VP sitting/VBG)
+  (NP next/JJ Trump/NNP)
+  ,/,
+  (VP seen/VBN nodding/VBG)
+  (NP Trumps/NNP mistake./NN ""/NNP)
+  really/RB
+  (VP put/VBD)
+  (NP big/JJ investment/NN country./NN)
+  really/RB
+  (NP appreciate/JJ)
+  much/RB
+  ,/,
+  (NP Tim/NNP Apple/NNP)
+  ,/,
+  (NP ""/NNP Trump/NNP)
+  (VP said/VBD)
+  ./.)"
+"Pak claims to take over 182 madrasas in terror crackdown, detain 121","Pakistan has taken control of 182 madrasas (religious schools) and detained 121 people in a crackdown on banned militant organisations, the country's interior ministry said on Thursday. The ministry had detained 44 people, including Jaish-e-Mohammed chief Masood Azhar's brother Mufti Abdul Rauf by Tuesday. This comes days after Jaish-e-Mohammed carried out a suicide attack on CRPF jawans in J&K's Pulwama.  ",world,"Pak claims to take over 182 madrasas in terror crackdown, detain 121. Pakistan has taken control of 182 madrasas (religious schools) and detained 121 people in a crackdown on banned militant organisations, the country's interior ministry said on Thursday. The ministry had detained 44 people, including Jaish-e-Mohammed chief Masood Azhar's brother Mufti Abdul Rauf by Tuesday. This comes days after Jaish-e-Mohammed carried out a suicide attack on CRPF jawans in J&K's Pulwama.  ",pak claim take 182 madrasa terror crackdown detain 121 pakistan take control 182 madrasa religious school detain 121 people crackdown ban militant organisation country interior ministry say thursday ministry detain 44 people include jaish e mohammed chief masood azhar brother mufti abdul rauf tuesday come day jaish e mohammed carry suicide attack crpf jawan jks pulwama,"(S
+  (NP Pak/NNP claims/NNS)
+  (VP take/VBP)
+  (NP 182/CD madrasas/NNS terror/JJ crackdown/NN)
+  ,/,
+  (VP detain/VBP)
+  (NP 121./CD Pakistan/NNP)
+  (VP taken/VBN)
+  (NP control/NN 182/CD madrasas/NN)
+  (/(
+  (NP religious/JJ schools/NNS)
+  )/)
+  (VP detained/VBD)
+  (NP 121/CD people/NNS)
+  (VP crackdown/VBP banned/VBN)
+  (NP militant/JJ organisations/NNS)
+  ,/,
+  (NP countrys/NN interior/JJ ministry/NN)
+  (VP said/VBD)
+  (NP Thursday./NNP ministry/NN)
+  (VP detained/VBD)
+  (NP 44/CD people/NNS)
+  ,/,
+  (VP including/VBG)
+  (NP
+    Jaish-e-Mohammed/JJ
+    chief/JJ
+    Masood/NNP
+    Azhars/NNP
+    brother/NN
+    Mufti/NNP
+    Abdul/NNP
+    Rauf/NNP
+    Tuesday./NNP)
+  (VP comes/VBZ)
+  (NP days/NNS Jaish-e-Mohammed/NNP)
+  (VP carried/VBD)
+  (NP suicide/JJ attack/NN CRPF/NNP)
+  (VP jawans/VBZ)
+  (NP J&Ks/NNP Pulwama./NNP))"
+"Ex-lover, suspect in Indian-origin dentist murder, dies in BMW crash","The key suspect in the murder of a 32-year-old Indian-origin woman dentist in Australia's Sydney died in a BMW car crash on Monday. The dentist's body was found in a suitcase on Tuesday, two days after she went missing. Police had questioned her ex-boyfriend over the missing report after he travelled 400 kilometres to attend a dental conference with her.",world,"Ex-lover, suspect in Indian-origin dentist murder, dies in BMW crash. The key suspect in the murder of a 32-year-old Indian-origin woman dentist in Australia's Sydney died in a BMW car crash on Monday. The dentist's body was found in a suitcase on Tuesday, two days after she went missing. Police had questioned her ex-boyfriend over the missing report after he travelled 400 kilometres to attend a dental conference with her.",ex lover suspect indian origin dentist murder die bmw crash key suspect murder 32year old indian origin woman dentist australias sydney die bmw car crash monday dentist body find suitcase tuesday two day go miss police question ex boyfriend missing report travel 400 kilometre attend dental conference,"(S
+  (NP Ex-lover/NNP)
+  ,/,
+  (NP suspect/JJ Indian-origin/NNP dentist/NN murder/NN)
+  ,/,
+  (VP dies/VBZ)
+  (NP
+    BMW/NNP
+    crash./NN
+    key/NN
+    suspect/JJ
+    murder/NN
+    32-year-old/JJ
+    Indian-origin/NNP
+    woman/NN
+    dentist/NN
+    Australias/NNP
+    Sydney/NNP)
+  (VP died/VBD)
+  (NP BMW/NNP car/NN crash/NN Monday./NNP)
+  (VP dentists/VBZ)
+  (NP body/NN)
+  (VP found/VBD)
+  (NP suitcase/NN Tuesday/NNP)
+  ,/,
+  (NP two/CD days/NNS)
+  (VP went/VBD)
+  (NP missing./JJ Police/NNP)
+  (VP questioned/VBD)
+  (NP ex-boyfriend/JJ missing/VBG report/NN)
+  (VP travelled/VBD)
+  (NP 400/CD kilometres/NNS)
+  (VP attend/VBP)
+  (NP dental/JJ conference/NN)
+  ./.)"
+Pakistan has made terrorism a state policy: Vice President Naidu,"Pakistan has made terrorism a state policy and is aiding, funding and training terrorists, Vice President M Venkaiah Naidu said. ""They (Pakistan) have been persuaded, they make public commitments, but never stop funding terrorism,"" the Vice President added. ""We don't want war, but can't be silent spectator to nonsense going on for a war,"" he further said.",world,"Pakistan has made terrorism a state policy: Vice President Naidu. Pakistan has made terrorism a state policy and is aiding, funding and training terrorists, Vice President M Venkaiah Naidu said. ""They (Pakistan) have been persuaded, they make public commitments, but never stop funding terrorism,"" the Vice President added. ""We don't want war, but can't be silent spectator to nonsense going on for a war,"" he further said.",pakistan make terrorism state policy vice president naidu pakistan make terrorism state policy aid funding training terrorist vice president venkaiah naidu say pakistan persuade make public commitment never stop fund terrorism vice president add not want war not silent spectator nonsense go war say,"(S
+  (NP Pakistan/NNP)
+  (VP made/VBD)
+  (NP terrorism/NN state/NN policy/NN)
+  :/:
+  (NP Vice/NNP President/NNP Naidu./NNP Pakistan/NNP)
+  (VP made/VBD)
+  (NP terrorism/NN state/NN policy/NN aiding/NN)
+  ,/,
+  (VP funding/VBG)
+  (NP training/NN terrorists/NNS)
+  ,/,
+  (NP Vice/NNP President/NNP Venkaiah/NNP Naidu/NNP said./NN ""/NNP)
+  (/(
+  (NP Pakistan/NNP)
+  )/)
+  (VP persuaded/VBD)
+  ,/,
+  (VP make/VB)
+  (NP public/JJ commitments/NNS)
+  ,/,
+  never/RB
+  (VP stop/VB)
+  (NP funding/NN terrorism/NN)
+  ,/,
+  (NP ""/JJ Vice/NNP President/NNP)
+  (VP added./VBD)
+  (NP ""/NNP)
+  not/RB
+  (VP want/VB)
+  (NP war/NN)
+  ,/,
+  (NP cannot/JJ silent/JJ spectator/NN nonsense/NN)
+  (VP going/VBG)
+  (NP war/NN)
+  ,/,
+  (NP ""/NNP)
+  (VP said/VBD)
+  ./.)"
+We are expecting Saudi to invest $35 billion here: Bangladesh,"After meeting a visiting Saudi delegation on Thursday, Bangladesh Finance Minister AHM Mustafa Kamal said the country expects Saudi Arabia to invest $35 billion in infrastructure projects. However, he did not give a time frame for the investments. Last year, Bangladesh received $2.6 billion in remittances from 2.8 million of its citizens working in the kingdom.",world,"We are expecting Saudi to invest $35 billion here: Bangladesh. After meeting a visiting Saudi delegation on Thursday, Bangladesh Finance Minister AHM Mustafa Kamal said the country expects Saudi Arabia to invest $35 billion in infrastructure projects. However, he did not give a time frame for the investments. Last year, Bangladesh received $2.6 billion in remittances from 2.8 million of its citizens working in the kingdom.",expect saudi invest 35 billion bangladesh meet visit saudi delegation thursday bangladesh finance minister ahm mustafa kamal say country expect saudi arabia invest 35 billion infrastructure project however not give time frame investment last year bangladesh receive 2 6 billion remittance 2 8 million citizen work kingdom,"(S
+  (VP expecting/VBG)
+  (NP Saudi/NNP invest/JJS $/$ 35/CD billion/CD)
+  :/:
+  (NP Bangladesh./NNP meeting/VBG)
+  (VP visiting/VBG)
+  (NP Saudi/NNP delegation/NN Thursday/NNP)
+  ,/,
+  (NP
+    Bangladesh/NNP
+    Finance/NNP
+    Minister/NNP
+    AHM/NNP
+    Mustafa/NNP
+    Kamal/NNP)
+  (VP said/VBD)
+  (NP country/NN)
+  (VP expects/VBZ)
+  (NP Saudi/NNP Arabia/NNP)
+  (VP invest/VB)
+  (NP $/$ 35/CD billion/CD infrastructure/NN projects./NN)
+  However/RB
+  ,/,
+  not/RB
+  (NP give/JJ time/NN frame/NN investments./NN Last/JJ year/NN)
+  ,/,
+  (NP Bangladesh/NNP)
+  (VP received/VBD)
+  (NP
+    $/$
+    2.6/CD
+    billion/CD
+    remittances/NNS
+    2.8/CD
+    million/CD
+    citizens/NNS)
+  (VP working/VBG)
+  (NP kingdom/NN)
+  ./.)"
+92-yr-old Queen Elizabeth posts on Instagram for 1st time using iPad,"Queen Elizabeth II posted her first ever post on Instagram on Thursday during a visit to London's Science Museum. The 92-year-old shared a letter sent by 19th-century mathematician and computer pioneer Charles Babbage to Queen Victoria's husband, Prince Albert. She published the post on Royal Family's official Instagram account using an iPad at the museum.",world,"92-yr-old Queen Elizabeth posts on Instagram for 1st time using iPad. Queen Elizabeth II posted her first ever post on Instagram on Thursday during a visit to London's Science Museum. The 92-year-old shared a letter sent by 19th-century mathematician and computer pioneer Charles Babbage to Queen Victoria's husband, Prince Albert. She published the post on Royal Family's official Instagram account using an iPad at the museum.",92yr old queen elizabeth post instagram 1st time use ipad queen elizabeth ii post first ever post instagram thursday visit london science museum 92year old share letter send 19th century mathematician computer pioneer charle babbage queen victorias husband prince albert publish post royal familys official instagram account use ipad museum,"(S
+  (NP 92-yr-old/JJ Queen/NNP Elizabeth/NNP)
+  (VP posts/VBZ)
+  (NP Instagram/NNP 1st/CD time/NN)
+  (VP using/VBG)
+  (NP iPad./JJ Queen/NNP Elizabeth/NNP II/NNP)
+  (VP posted/VBD)
+  (NP first/JJ)
+  ever/RB
+  (NP
+    post/NN
+    Instagram/NNP
+    Thursday/NNP
+    visit/NN
+    Londons/NNP
+    Science/NNP
+    Museum./NNP
+    92-year-old/CD)
+  (VP shared/VBD)
+  (NP letter/NN)
+  (VP sent/VBD)
+  (NP
+    19th-century/JJ
+    mathematician/JJ
+    computer/NN
+    pioneer/NN
+    Charles/NNP
+    Babbage/NNP
+    Queen/NNP
+    Victorias/NNP
+    husband/NN)
+  ,/,
+  (NP Prince/NNP Albert./NNP)
+  (VP published/VBD)
+  (NP
+    post/NN
+    Royal/NNP
+    Familys/NNP
+    official/NN
+    Instagram/NNP
+    account/NN)
+  (VP using/VBG)
+  (NP iPad/JJ museum/NN)
+  ./.)"
+400-year-old Japan temple unveils robot avatar of Buddhist Goddess,"A 400-year-old Kyoto-based temple has unveiled a robotic avatar of the Buddhist Goddess of Mercy, Kannon, in an attempt to keep the younger generation connected with Buddhism. Named 'Mindar', the robot can join its hands and move its eyes and torso while delivering 25-minute-long sermons to worshippers. The robot designers said the avatar has been made in a gender-neutral form.",world,"400-year-old Japan temple unveils robot avatar of Buddhist Goddess. A 400-year-old Kyoto-based temple has unveiled a robotic avatar of the Buddhist Goddess of Mercy, Kannon, in an attempt to keep the younger generation connected with Buddhism. Named 'Mindar', the robot can join its hands and move its eyes and torso while delivering 25-minute-long sermons to worshippers. The robot designers said the avatar has been made in a gender-neutral form.",400year old japan temple unveil robot avatar buddhist goddess 400year old kyoto base temple unveil robotic avatar buddhist goddess mercy kannon attempt keep young generation connect buddhism name mindar robot join hand move eye torso deliver 25minute long sermon worshipper robot designer say avatar make gender neutral form,"(S
+  (NP 400-year-old/JJ Japan/NNP temple/NN unveils/NNS)
+  (VP robot/VBP)
+  (NP
+    avatar/JJ
+    Buddhist/NNP
+    Goddess./NNP
+    400-year-old/JJ
+    Kyoto-based/JJ
+    temple/NN)
+  (VP unveiled/VBD)
+  (NP robotic/JJ avatar/NN Buddhist/NNP Goddess/NNP Mercy/NNP)
+  ,/,
+  (NP Kannon/NNP)
+  ,/,
+  (NP attempt/NN)
+  (VP keep/VB)
+  (NP younger/JJR generation/NN)
+  (VP connected/VBD)
+  (NP Buddhism./NNP Named/NNP Mindar/NNP)
+  ,/,
+  (NP robot/NN join/NN hands/NNS)
+  (VP move/VBP)
+  (NP eyes/NNS)
+  (PP torso/IN)
+  (VP delivering/VBG)
+  (NP 25-minute-long/JJ sermons/NNS)
+  (VP worshippers./VBP)
+  (NP robot/NN designers/NNS)
+  (VP said/VBD)
+  (NP avatar/NN)
+  (VP made/VBD)
+  (NP gender-neutral/JJ form/NN)
+  ./.)"
+16 killed in attack on construction company in Afghanistan,At least 16 people were killed after suicide bombers and gunmen attacked a construction company's office in the Afghan city of Jalalabad on Wednesday. Three gunmen opened fire after two suicide bombers blew themselves up outside the company's office. The three gunmen were killed in an exchange of fire with Afghan security forces that lasted more than five hours.,world,16 killed in attack on construction company in Afghanistan. At least 16 people were killed after suicide bombers and gunmen attacked a construction company's office in the Afghan city of Jalalabad on Wednesday. Three gunmen opened fire after two suicide bombers blew themselves up outside the company's office. The three gunmen were killed in an exchange of fire with Afghan security forces that lasted more than five hours.,16 kill attack construction company afghanistan least 16 people kill suicide bomber gunman attack construction companys office afghan city jalalabad wednesday three gunman open fire two suicide bomber blow outside companys office three gunman kill exchange fire afghan security force last five hour,"(S
+  (NP
+    16/CD
+    killed/VBN
+    attack/NN
+    construction/NN
+    company/NN
+    Afghanistan./NNP)
+  (VP least/VBD)
+  (NP 16/CD people/NNS)
+  (VP killed/VBN)
+  (NP suicide/JJ bombers/NNS gunmen/NNS)
+  (VP attacked/VBD)
+  (NP
+    construction/NN
+    companys/NN
+    office/NN
+    Afghan/NNP
+    city/NN
+    Jalalabad/NNP
+    Wednesday./NNP
+    Three/NNP
+    gunmen/NNS)
+  (VP opened/VBD)
+  (NP fire/NN two/CD suicide/NN bombers/NNS)
+  (VP blew/VBD)
+  (PP outside/IN)
+  (NP companys/NN)
+  (VP office./VBP)
+  (NP three/CD gunmen/NNS)
+  (VP killed/VBD)
+  (NP exchange/NN fire/NN Afghan/NNP security/NN forces/NNS)
+  (VP lasted/VBD)
+  (NP five/CD hours/NNS)
+  ./.)"
+Food production in North Korea lowest in over a decade: UN,"The food production in North Korea last year fell to its lowest level for over a decade, according to the UN. It attributed annual shortfalls in agricultural production in North Korea to a shortage of arable land, lack of access to modern agricultural equipment and fertilisers, and recurrent natural disasters. An estimated 11 million people in North Korea are undernourished.",world,"Food production in North Korea lowest in over a decade: UN. The food production in North Korea last year fell to its lowest level for over a decade, according to the UN. It attributed annual shortfalls in agricultural production in North Korea to a shortage of arable land, lack of access to modern agricultural equipment and fertilisers, and recurrent natural disasters. An estimated 11 million people in North Korea are undernourished.",food production north korea low decade un food production north korea last year fall low level decade accord un attribute annual shortfall agricultural production north korea shortage arable land lack access modern agricultural equipment fertiliser recurrent natural disaster estimate 11 million people north korea undernourished,"(S
+  (NP
+    Food/NNP
+    production/NN
+    North/NNP
+    Korea/NNP
+    lowest/JJS
+    decade/NN)
+  :/:
+  (NP
+    UN./JJ
+    food/NN
+    production/NN
+    North/NNP
+    Korea/NNP
+    last/JJ
+    year/NN)
+  (VP fell/VBD)
+  lowest/JJS
+  (NP level/NN decade/NN)
+  ,/,
+  (VP according/VBG)
+  (NP UN./NNP)
+  (VP attributed/VBD)
+  (NP
+    annual/JJ
+    shortfalls/NNS
+    agricultural/JJ
+    production/NN
+    North/NNP
+    Korea/NNP
+    shortage/NN
+    arable/JJ
+    land/NN)
+  ,/,
+  (VP lack/VB)
+  (NP
+    access/NN
+    modern/JJ
+    agricultural/JJ
+    equipment/NN
+    fertilisers/NNS)
+  ,/,
+  (NP recurrent/JJ natural/JJ disasters./NN)
+  (VP estimated/VBD)
+  (NP 11/CD million/CD people/NNS North/NNP Korea/NNP)
+  (VP undernourished/VBD)
+  ./.)"
+Brazil's President criticised for sharing explicit video on Twitter,"Brazilian President Jair Bolsonaro has been criticised for sharing a video showing one man urinating on another at the annual street carnival. ""I don't feel comfortable showing it, but we have to expose the truth so the population are aware...This is what many street parties in the Brazilian Carnival have turned into"", Bolsonaro tweeted.",world,"Brazil's President criticised for sharing explicit video on Twitter. Brazilian President Jair Bolsonaro has been criticised for sharing a video showing one man urinating on another at the annual street carnival. ""I don't feel comfortable showing it, but we have to expose the truth so the population are aware...This is what many street parties in the Brazilian Carnival have turned into"", Bolsonaro tweeted.",brazil president criticise share explicit video twitter brazilian president jair bolsonaro criticise share video show one man urinate another annual street carnival not feel comfortable show expose truth population aware many street party brazilian carnival turn bolsonaro tweet,"(S
+  (NP Brazils/NNP President/NNP)
+  (VP criticised/VBD sharing/VBG)
+  (NP
+    explicit/JJ
+    video/NN
+    Twitter./NNP
+    Brazilian/NNP
+    President/NNP
+    Jair/NNP
+    Bolsonaro/NNP)
+  (VP criticised/VBD sharing/VBG)
+  (NP video/NN showing/VBG one/CD man/NN)
+  (VP urinating/VBG)
+  (NP another/DT annual/JJ street/NN carnival./NNS)
+  (VP ""/MD not/RB feel/VB)
+  (NP comfortable/JJ showing/NN)
+  ,/,
+  (NP expose/JJ truth/NN population/NN aware/JJ)
+  .../:
+  (NP many/JJ street/NN parties/NNS Brazilian/JJ Carnival/NNP)
+  (VP turned/VBD)
+  (NP ""/NNP)
+  ,/,
+  (NP Bolsonaro/NNP)
+  (VP tweeted/VBD)
+  ./.)"
+Venezuela expels German ambassador for meddling in internal affairs,"Nicolás Maduro-led Venezuelan government on Wednesday expelled German ambassador to the country, Daniel Kriener, accusing him of meddling in internal affairs. Kriener was among the diplomats who travelled to Venezuela's main international airport on Monday to greet opposition leader Juan Guaidó, who returned after defying a travel ban. Germany has recognised Guaidó as interim Venezuelan President.",world,"Venezuela expels German ambassador for meddling in internal affairs. Nicolás Maduro-led Venezuelan government on Wednesday expelled German ambassador to the country, Daniel Kriener, accusing him of meddling in internal affairs. Kriener was among the diplomats who travelled to Venezuela's main international airport on Monday to greet opposition leader Juan Guaidó, who returned after defying a travel ban. Germany has recognised Guaidó as interim Venezuelan President.",venezuela expel german ambassador meddle internal affair nicola maduro lead venezuelan government wednesday expel german ambassador country daniel kriener accuse meddle internal affair kriener among diplomat travel venezuela main international airport monday greet opposition leader juan guaido return defy travel ban germany recognise guaido interim venezuelan president,"(S
+  (NP Venezuela/NNP expels/JJ German/NNP ambassador/NN)
+  (VP meddling/VBG)
+  (NP
+    internal/JJ
+    affairs./NN
+    Nicolas/NNP
+    Maduro-led/NNP
+    Venezuelan/NNP
+    government/NN
+    Wednesday/NNP)
+  (VP expelled/VBD)
+  (NP German/JJ ambassador/JJ country/NN)
+  ,/,
+  (NP Daniel/NNP Kriener/NNP)
+  ,/,
+  (VP accusing/VBG meddling/VBG)
+  (NP internal/JJ affairs./NN Kriener/NNP)
+  (PP among/IN)
+  (NP diplomats/NNS)
+  (VP travelled/VBD)
+  (NP
+    Venezuelas/NNP
+    main/JJ
+    international/JJ
+    airport/NN
+    Monday/NNP
+    greet/NN
+    opposition/NN
+    leader/NN
+    Juan/NNP
+    Guaido/NNP)
+  ,/,
+  (VP returned/VBD defying/VBG)
+  (NP travel/NN ban./NNS Germany/NNP)
+  (VP recognised/VBD)
+  (NP Guaido/NNP interim/JJ Venezuelan/NNP President/NNP)
+  ./.)"
+Chinese military activity rising in South China Sea: US,"The US has said it has observed a rise in Chinese military activity in the disputed South China Sea over the last year. ""It's a hazard to trade flows, the commercial activity, the financial information that flows on cables under"" the sea, Commander of US Indo-Pacific Command, Admiral Philip Davidson said. China claims nearly 90% of the South China Sea.",world,"Chinese military activity rising in South China Sea: US. The US has said it has observed a rise in Chinese military activity in the disputed South China Sea over the last year. ""It's a hazard to trade flows, the commercial activity, the financial information that flows on cables under"" the sea, Commander of US Indo-Pacific Command, Admiral Philip Davidson said. China claims nearly 90% of the South China Sea.",chinese military activity rise south china sea us us say observe rise chinese military activity dispute south china sea last year hazard trade flow commercial activity financial information flow cable sea commander us indo pacific command admiral philip davidson say china claim nearly 90 south china sea,"(S
+  (NP Chinese/JJ military/JJ activity/NN)
+  (VP rising/VBG)
+  (NP South/NNP China/NNP Sea/NNP)
+  :/:
+  (NP US./NNP US/NNP)
+  (VP said/VBD)
+  (NP observed/JJ rise/NN Chinese/JJ military/JJ activity/NN)
+  (VP disputed/VBD)
+  (NP
+    South/NNP
+    China/NNP
+    Sea/NNP
+    last/JJ
+    year./NN
+    ""/NNP
+    hazard/NN
+    trade/NN)
+  (VP flows/VBZ)
+  ,/,
+  (NP commercial/JJ activity/NN)
+  ,/,
+  (NP financial/JJ information/NN)
+  (VP flows/VBZ)
+  (NP cables/NNS ""/NNP sea/NN)
+  ,/,
+  (NP Commander/NNP US/NNP Indo-Pacific/NNP Command/NNP)
+  ,/,
+  (NP Admiral/NNP Philip/NNP Davidson/NNP)
+  (VP said./VBD)
+  (NP China/NNP claims/NNS)
+  nearly/RB
+  (NP 90/CD %/NN South/NNP China/NNP Sea/NNP)
+  ./.)"
+There are no gays in our country: Malaysian minister,Malaysia's Tourism Minister Datuk Mohamaddin Ketapi reportedly said that there are no gays in his country. His comment came as he responded to a question whether Malaysia is safe for gay and Jewish visitors. Malaysian Prime Minister Mahathir Mohamad had last year said his country cannot accept same-sex marriage or LGBT rights. ,world,There are no gays in our country: Malaysian minister. Malaysia's Tourism Minister Datuk Mohamaddin Ketapi reportedly said that there are no gays in his country. His comment came as he responded to a question whether Malaysia is safe for gay and Jewish visitors. Malaysian Prime Minister Mahathir Mohamad had last year said his country cannot accept same-sex marriage or LGBT rights. ,no gay country malaysian minister malaysias tourism minister datuk mohamaddin ketapi reportedly say no gay country comment come respond question whether malaysia safe gay jewish visitor malaysian prime minister mahathir mohamad last year say country not accept sex marriage lgbt right,"(S
+  (NP no/DT gays/JJ country/NN)
+  :/:
+  (NP
+    Malaysian/JJ
+    minister./NN
+    Malaysias/NNP
+    Tourism/NNP
+    Minister/NNP
+    Datuk/NNP
+    Mohamaddin/NNP
+    Ketapi/NNP)
+  reportedly/RB
+  (VP said/VBD)
+  (NP no/DT gays/NNS)
+  (VP country./VBP)
+  (NP comment/NN)
+  (VP came/VBD)
+  (NP responded/JJ question/NN)
+  (PP whether/IN)
+  (NP
+    Malaysia/NNP
+    safe/JJ
+    gay/NN
+    Jewish/NNP
+    visitors./NN
+    Malaysian/NNP
+    Prime/NNP
+    Minister/NNP
+    Mahathir/NNP
+    Mohamad/NNP
+    last/JJ
+    year/NN)
+  (VP said/VBD)
+  (NP country/NN cannot/NN)
+  (PP accept/IN)
+  (NP same-sex/JJ marriage/NN LGBT/NNP rights./NN))"
+US threatens more sanctions on N Korea after Trump-Kim talks,"Days after the second summit between the two countries, the US has said that it would impose more sanctions on North Korea if it does not end its nuclear weapons programme. The US said both countries failed to arrive at an agreement due to North Korea's demands to lift all US sanctions, in return for giving up its nuclear weapons.",world,"US threatens more sanctions on N Korea after Trump-Kim talks. Days after the second summit between the two countries, the US has said that it would impose more sanctions on North Korea if it does not end its nuclear weapons programme. The US said both countries failed to arrive at an agreement due to North Korea's demands to lift all US sanctions, in return for giving up its nuclear weapons.",us threaten sanction n korea trump kim talk day second summit two country us say would impose sanction north korea not end nuclear weapon programme us say country fail arrive agreement due north korea demand lift us sanction return give nuclear weapon,"(S
+  (NP US/PRP)
+  (VP threatens/VBZ)
+  (NP
+    sanctions/NNS
+    N/NNP
+    Korea/NNP
+    Trump-Kim/NNP
+    talks./NN
+    Days/NNP
+    second/JJ
+    summit/NN
+    two/CD
+    countries/NNS)
+  ,/,
+  (NP US/NNP)
+  (VP said/VBD)
+  (VP would/MD impose/VB)
+  (NP sanctions/NNS North/NNP Korea/NNP)
+  not/RB
+  (VP end/VB)
+  (NP nuclear/JJ weapons/NNS)
+  (VP programme./VBP)
+  (NP US/NNP)
+  (VP said/VBD)
+  (NP countries/NNS)
+  (VP failed/VBD)
+  (NP arrive/JJ agreement/NN due/JJ North/NNP Koreas/NNP)
+  (VP demands/VBZ)
+  (NP lift/JJ US/NNP sanctions/NNS)
+  ,/,
+  (NP return/NN giving/VBG nuclear/JJ weapons/NNS)
+  ./.)"
+Thailand court dissolves party that nominated princess for PM,"Thailand's Constitutional Court on Thursday ordered to dissolve the Thai Raksa Chart Party that nominated Princess Ubolratana Rajakanya Sirivadhana Varnavadi as its PM candidate. ""If the royal family is pulled down to politics, the royal institution will not have its status as the centre for Thai people anymore,"" the court said. Thai King Maha Vajiralongkorn had opposed his sister's candidacy.",world,"Thailand court dissolves party that nominated princess for PM. Thailand's Constitutional Court on Thursday ordered to dissolve the Thai Raksa Chart Party that nominated Princess Ubolratana Rajakanya Sirivadhana Varnavadi as its PM candidate. ""If the royal family is pulled down to politics, the royal institution will not have its status as the centre for Thai people anymore,"" the court said. Thai King Maha Vajiralongkorn had opposed his sister's candidacy.",thailand court dissolve party nominate princess pm thailands constitutional court thursday order dissolve thai raksa chart party nominate princess ubolratana rajakanya sirivadhana varnavadi pm candidate royal family pull politic royal institution not status centre thai people anymore court say thai king maha vajiralongkorn oppose sister candidacy,"(S
+  (NP Thailand/NNP court/NN)
+  (VP dissolves/VBZ)
+  (NP
+    party/NN
+    nominated/JJ
+    princess/NN
+    PM./NNP
+    Thailands/NNP
+    Constitutional/NNP
+    Court/NNP
+    Thursday/NNP)
+  (VP ordered/VBD)
+  dissolve/RP
+  (NP Thai/NNP Raksa/NNP Chart/NNP Party/NNP)
+  (VP nominated/VBD)
+  (NP
+    Princess/NNP
+    Ubolratana/NNP
+    Rajakanya/NNP
+    Sirivadhana/NNP
+    Varnavadi/NNP
+    PM/NNP
+    candidate./NN
+    ""/NNP)
+  (VP royal/VBZ)
+  (NP family/NN)
+  (VP pulled/VBD)
+  (NP politics/NNS)
+  ,/,
+  (NP royal/JJ institution/NN)
+  not/RB
+  (NP status/NN centre/JJ Thai/NNP people/NNS)
+  anymore/RB
+  ,/,
+  (NP ""/JJ court/NN)
+  (VP said./VBD)
+  (NP Thai/NNP King/NNP Maha/NNP Vajiralongkorn/NNP)
+  (VP opposed/VBD)
+  (NP sisters/NNS candidacy/NN)
+  ./.)"
+US to revoke visas of 77 people linked to Venezuela's Maduro,"The US will revoke the visas of 77 people associated with Venezuelan President Nicolás Maduro as it continues to put pressure on the government until 'freedom' in Venezuela is restored. Last week, the US revoked visas of 49 Venezuelans. ""Maduro is a dictator with no legitimate claim to power, and (he) must go,"" US Vice President Mike Pence said.",world,"US to revoke visas of 77 people linked to Venezuela's Maduro. The US will revoke the visas of 77 people associated with Venezuelan President Nicolás Maduro as it continues to put pressure on the government until 'freedom' in Venezuela is restored. Last week, the US revoked visas of 49 Venezuelans. ""Maduro is a dictator with no legitimate claim to power, and (he) must go,"" US Vice President Mike Pence said.",us revoke visa 77 people link venezuela maduro us revoke visa 77 people associate venezuelan president nicola maduro continue put pressure government freedom venezuela restore last week us revoke visa 49 venezuelan maduro dictator no legitimate claim power must go us vice president mike penny say,"(S
+  (NP US/NNP)
+  (VP revoke/VBD)
+  (NP visas/JJ 77/CD people/NNS)
+  (VP linked/VBN)
+  (NP Venezuelas/NNP Maduro./NNP US/NNP)
+  (VP revoke/VBD)
+  (NP
+    visas/JJ
+    77/CD
+    people/NNS
+    associated/JJ
+    Venezuelan/NNP
+    President/NNP
+    Nicolas/NNP
+    Maduro/NNP)
+  (VP continues/VBZ put/VBN)
+  (NP
+    pressure/JJ
+    government/NN
+    freedom/NN
+    Venezuela/NNP
+    restored./NN
+    Last/JJ
+    week/NN)
+  ,/,
+  (NP US/NNP)
+  (VP revoked/VBD)
+  (NP visas/JJ 49/CD Venezuelans./NNP ""/NNP Maduro/NNP dictator/NN)
+  (NP no/DT legitimate/JJ claim/NN power/NN)
+  ,/,
+  (/(
+  )/)
+  (VP must/MD go/VB)
+  ,/,
+  (VP ""/VB)
+  (NP US/NNP Vice/NNP President/NNP Mike/NNP Pence/NNP)
+  (VP said/VBD)
+  ./.)"
+We're not slaves: Turkey after US warns over S-400 deal with Russia,"Responding to the US' warning to Turkey against moving ahead with plans to buy S-400 air defence systems from Russia, Turkish President Recep Tayyip Erdoğan said, ""We're an independent country, not slaves."" ""The deal is done, there's no point in discussing it as there's no turning back"", Erdoğan added. He further said that Turkey may buy S-500 missiles from Russia.",world,"We're not slaves: Turkey after US warns over S-400 deal with Russia. Responding to the US' warning to Turkey against moving ahead with plans to buy S-400 air defence systems from Russia, Turkish President Recep Tayyip Erdoğan said, ""We're an independent country, not slaves."" ""The deal is done, there's no point in discussing it as there's no turning back"", Erdoğan added. He further said that Turkey may buy S-500 missiles from Russia.",not slave turkey us warn s400 deal russia respond us warn turkey move ahead plan buy s400 air defence system russia turkish president recep tayyip erdogan say independent country not slave deal no point discuss no turn back erdogan add say turkey may buy s500 missile russia,"(S
+  not/RB
+  (NP slaves/NNS)
+  :/:
+  (NP Turkey/NNP US/NNP)
+  (VP warns/VBZ)
+  (NP S-400/NNP deal/NN Russia./NNP Responding/NNP US/NNP)
+  (VP warning/VBG)
+  (NP Turkey/NNP moving/VBG)
+  ahead/RB
+  (NP plans/NNS)
+  (VP buy/VBP)
+  (NP S-400/NNP air/NN defence/NN systems/NNS Russia/NNP)
+  ,/,
+  (NP Turkish/NNP President/NNP Recep/NNP Tayyip/NNP Erdogan/NNP)
+  (VP said/VBD)
+  ,/,
+  (NP ""/JJ independent/JJ country/NN)
+  ,/,
+  not/RB
+  (NP slaves./JJ ""/NNP ""/NNP deal/NN)
+  (VP done/VBN)
+  ,/,
+  (NP no/DT point/NN)
+  (VP discussing/VBG)
+  (NP no/DT turning/VBG)
+  back/RB
+  (NP ""/NNP)
+  ,/,
+  (NP Erdogan/NNP added./NN)
+  (VP said/VBD)
+  (NP Turkey/NNP)
+  (VP may/MD buy/VB)
+  (NP S-500/NNP missiles/NNS Russia/NNP)
+  ./.)"
