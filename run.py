@@ -4,6 +4,7 @@ import itertools
 import normalizer
 import pandas as pd
 import re
+import stanford
 import sys
 
 
@@ -41,3 +42,9 @@ if '--chunk' in flags:
     news_df['chunked_text'] = chunker.tag_and_chunk(news_df['full_text'])
     print('Dataset dumped to: news_chunked.csv')
     news_df.to_csv('news_chunked.csv', index=False, encoding='utf-8')
+
+if '--stanford' in flags:
+    print('Running StanfordParser')
+    news_df['stanford_text'] = stanford.parse(news_df['full_text'])
+    print('Dataset dumped to: news_stanford.csv')
+    news_df.to_csv('news_stanford.csv', index=False, encoding='utf-8')
