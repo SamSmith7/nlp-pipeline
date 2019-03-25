@@ -1,5 +1,6 @@
 import chunker
 import dataset
+import dependency_parser
 import itertools
 import normalizer
 import pandas as pd
@@ -48,3 +49,9 @@ if '--stanford' in flags:
     news_df['stanford_text'] = stanford.parse(news_df['full_text'])
     print('Dataset dumped to: news_stanford.csv')
     news_df.to_csv('news_stanford.csv', index=False, encoding='utf-8')
+
+if '--dep_parse' in flags:
+    print('Running Dep Parser')
+    news_df['deps_text'] = dependency_parser.parse(news_df['full_text'])
+    print('Dataset dumped to: news_dependency.csv')
+    news_df.to_csv('news_dependency.csv', index=False, encoding='utf-8')

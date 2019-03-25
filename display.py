@@ -10,4 +10,4 @@ args = list(itertools.filterfalse(lambda x: re.match('^--', x), sys.argv))
 
 data = pd.read_csv(args[1])
 
-display(data.iloc[0]['stanford_text'])
+print(data.iloc[0]['deps_text'])
