@@ -2,6 +2,7 @@ import chunker
 import dataset
 import dependency_parser
 import itertools
+import named_entities
 import normalizer
 import pandas as pd
 import re
@@ -55,3 +56,9 @@ if '--dep_parse' in flags:
     news_df['deps_text'] = dependency_parser.parse(news_df['full_text'])
     print('Dataset dumped to: news_dependency.csv')
     news_df.to_csv('news_dependency.csv', index=False, encoding='utf-8')
+
+if '--named_ents' in flags:
+    print('Running Named Entities Extracter')
+    named_ents = named_entities.parse(news_df['full_text'])
+    print('Dataset dumped to: news_named_ents.csv')
+    named_ents.to_csv('news_named_ents.csv', index=False, encoding='utf-8')

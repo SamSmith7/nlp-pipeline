@@ -1,0 +1,483 @@
+Entity Name,Entity Type,Frequency
+India,GPE,28
+US,GPE,27
+Pakistan,GPE,24
+Wednesday,DATE,12
+Google,ORG,12
+first,ORDINAL,11
+Apple,ORG,10
+Australia,GPE,8
+Indian,NORP,7
+Ranchi,GPE,7
+Dhoni,PERSON,6
+second,ORDINAL,6
+MS Dhoni,PERSON,6
+Facebook,ORG,6
+Team India,ORG,6
+Thursday,DATE,5
+Tuesday,DATE,5
+Chinese,NORP,5
+China,GPE,5
+Pak,GPE,5
+South Africa,GPE,5
+Samsung,ORG,4
+Venezuela,GPE,4
+Jaish - e - Mohammed,PERSON,4
+JeM,ORG,4
+Kohli,PERSON,4
+North Korea,GPE,4
+Huawei,ORG,4
+Trump,ORG,4
+one,CARDINAL,4
+Tim Cook ' Tim Apple ',PERSON,4
+Bolo,ORG,4
+Donald Trump,PERSON,4
+Shah Mahmood Qureshi,PERSON,3
+Harman,ORG,3
+Russia,GPE,3
+Japan,GPE,3
+Alphabet,ORG,3
+Iniyan,PERSON,3
+Virat Kohli,PERSON,3
+Lehmann,PERSON,3
+Delhi,GPE,3
+Quinton de Kock,PERSON,3
+Turkey,GPE,3
+English,LANGUAGE,3
+Gavaskar,PERSON,3
+Mumbai,GPE,3
+Friday,DATE,3
+Pakistani,NORP,3
+Lego,ORG,3
+Pulwama,ORG,2
+Porto,PERSON,2
+Qureshi,PERSON,2
+PewDiePie,PERSON,2
+Ravi Shastri,PERSON,2
+Afghan,NORP,2
+Richards,PERSON,2
+Ritika,ORG,2
+Rohit,PERSON,2
+Duolingo,ORG,2
+Roma,GPE,2
+83,CARDINAL,2
+Saudi,NORP,2
+Android TV,ORG,2
+77,CARDINAL,2
+25-minute - long,TIME,2
+South China Sea,LOC,2
+Sri Lanka,GPE,2
+Sunil Gavaskar,PERSON,2
+133,CARDINAL,2
+121,CARDINAL,2
+Thai,NORP,2
+Thailand,GPE,2
+"10,000",CARDINAL,2
+$ 35 billion,MONEY,2
+Android,ORG,2
+Mindar,ORG,2
+Australian,NORP,2
+BMW,ORG,2
+Du Plessis,ORG,2
+Faf du Plessis,PERSON,2
+Gautam Gambhir,PERSON,2
+German,NORP,2
+Glenn Maxwell,PERSON,2
+Google India,ORG,2
+ICC,GPE,2
+Champions League,ORG,2
+Buddhist Goddess,LOC,2
+Buddhism,GPE,2
+Instagram,ORG,2
+Bhabhiji,NORP,2
+Kailash Gahlot,PERSON,2
+Tim Apple,PERSON,2
+Kashmiri,PERSON,2
+Bangladesh,GPE,2
+Kyoto,GPE,2
+Lucknow,GPE,2
+MIT,ORG,2
+MMA,ORG,2
+MS Dhoni ',PERSON,2
+Maduro,GPE,2
+Malaysia,GPE,2
+Malaysian,NORP,2
+Mark Zuckerberg,PERSON,2
+Maxwell,ORG,2
+Miller,PERSON,2
+Monday,DATE,2
+Musharraf,GPE,2
+Kannon,PERSON,2
+#,CARDINAL,2
+Tim Cook,PERSON,2
+macOS,ORG,2
+the White House,FAC,2
+the Buddhist Goddess of Mercy,ORG,2
+seven,CARDINAL,2
+WebAuthn,ORG,2
+second India,GPE,2
+third,ORDINAL,2
+Viv Richards,PERSON,2
+annual,DATE,2
+United,ORG,2
+UN,ORG,2
+two,CARDINAL,2
+evening,TIME,2
+Venezuelan,NORP,2
+last year,DATE,2
+Trump 's,ORG,2
+last night,TIME,2
+iPad,ORG,2
+hundreds,CARDINAL,2
+less than 50 %,PERCENT,1
+Constitutional Court,ORG,1
+Charles Babbage,PERSON,1
+Google Photos,ORG,1
+second ODI,EVENT,1
+Chinese Foreign Ministry,ORG,1
+CoA,ORG,1
+Committee of Administrators,ORG,1
+Croma,ORG,1
+Google Home,ORG,1
+CRPF,ORG,1
+Daniel Kriener,PERSON,1
+Google Chrome,ORG,1
+Daniel Vettori,PERSON,1
+Danish,NORP,1
+Darren Lehmann,PERSON,1
+Datuk Mohamaddin Ketapi,PERSON,1
+Canada,GPE,1
+CL,ORG,1
+COA,ORG,1
+the Brazilian Carnival,ORG,1
+BJP,ORG,1
+the South China Sea,LOC,1
+Babita Phogat,PERSON,1
+the Cricket World Cup,ORG,1
+Bangladesh Finance,ORG,1
+Great night,TIME,1
+Bhushan Kumar,PERSON,1
+Bolsonaro,PERSON,1
+Days,DATE,1
+Brazil,GPE,1
+Brazilian,NORP,1
+Brisbane Heat,EVENT,1
+Brisbane Heat,ORG,1
+Broad day,WORK_OF_ART,1
+the Air Force,ORG,1
+the 80th minute,TIME,1
+David Miller,PERSON,1
+De Kock,PERSON,1
+Geeta,PERSON,1
+Debasish Chakraborty,PERSON,1
+Erdoğan,PERSON,1
+F-16,PRODUCT,1
+F11 Pro,ORG,1
+FIDO,ORG,1
+FIFA World Cup,EVENT,1
+Face ID,ORG,1
+Facebook,FAC,1
+next 20,DATE,1
+Global Public Policy VP Colin Crowell,PERSON,1
+Facebook,PERSON,1
+Facebook Global Policy Head,ORG,1
+nearly 90 %,PERCENT,1
+February 14 Pulwama,ORG,1
+February 28,DATE,1
+France,GPE,1
+more than five hours,TIME,1
+Germany,GPE,1
+next T20,DATE,1
+England,GPE,1
+Elizabeth II,PERSON,1
+Dhoni Pavilion ',WORK_OF_ART,1
+over a decade,DATE,1
+Deportivo Carcha,PERSON,1
+Deportivo Carcha 's Luis Acuna,PERSON,1
+Deportivo Jocotan,PERSON,1
+Deshpande,PERSON,1
+over 182,CARDINAL,1
+the Thai Raksa Chart Party,ORG,1
+just 10 - 15 minutes,TIME,1
+EMI up to 6 months,DATE,1
+Diya,ORG,1
+"over 10,000",CARDINAL,1
+Dorsey,PERSON,1
+one Pakistani F-16,PRODUCT,1
+Du Plessis 2nd SA,ORG,1
+one Murray,PERSON,1
+ELO,ORG,1
+BCCI,ORG,1
+Asif Ghafoor,PERSON,1
+Australia ODI,ORG,1
+19th - century,DATE,1
+1st US,GPE,1
+2 Indian,NORP,1
+2.8 million,CARDINAL,1
+2003,DATE,1
+2012 - 13 season,DATE,1
+2014 - 15,DATE,1
+2017,DATE,1
+2018,DATE,1
+216,CARDINAL,1
+23-yr,CARDINAL,1
+2485,CARDINAL,1
+2495,CARDINAL,1
+three,CARDINAL,1
+3 - 1,PRODUCT,1
+30,CARDINAL,1
+30 ODI tons,QUANTITY,1
+40 CRPF,ORG,1
+40 ODI tons,QUANTITY,1
+400 kilometres,QUANTITY,1
+1st,DATE,1
+1974 FIFA World Cup Qualifiers,EVENT,1
+the Wall Street Journal,ORG,1
+1910 to 1912,DATE,1
+$ 2.6 billion,MONEY,1
+two Kashmiri,PERSON,1
+$ 5.7 million,MONEY,1
+$ 8 billion,MONEY,1
+$ 9.7 million,MONEY,1
+' Project Zero ',WORK_OF_ART,1
+0 - 2,CARDINAL,1
+1,CARDINAL,1
+10 days,DATE,1
+two Indian,NORP,1
+"10,677",CARDINAL,1
+11-inch,CARDINAL,1
+110 years,DATE,1
+117th - minute,TIME,1
+117th - minute VAR,ORG,1
+today,DATE,1
+16,CARDINAL,1
+182,CARDINAL,1
+187,CARDINAL,1
+40th,ORDINAL,1
+42nd,ORDINAL,1
+44,CARDINAL,1
+48MP+5MP,PRODUCT,1
+the last year,DATE,1
+"Amazon.in , OnePlus.in",ORG,1
+Ambient Mode,PRODUCT,1
+American,NORP,1
+An estimated 11 million,CARDINAL,1
+the evening,TIME,1
+the day,DATE,1
+Andy Murray,PERSON,1
+Anil,GPE,1
+Anil,PERSON,1
+Anil Kapoor,PERSON,1
+Antigua,GPE,1
+Anurag Thakur -,PERSON,1
+Apne,PERSON,1
+Argentina,GPE,1
+As many as 13,CARDINAL,1
+Guatemala,GPE,1
+At least 16,CARDINAL,1
+Aubrey Faulkner,PERSON,1
+Air Force,ORG,1
+Ahmedabad,GPE,1
+Afghanistan,GPE,1
+61st,ORDINAL,1
+48MP+5MP Dual Rear Camera,PRODUCT,1
+49 Venezuelans,NORP,1
+5-inch,CARDINAL,1
+50,CARDINAL,1
+"50,000",CARDINAL,1
+500th,ORDINAL,1
+500th ODI,FAC,1
+500th ODI,ORG,1
+61st Grandmaster,ORG,1
+the year,DATE,1
+62,CARDINAL,1
+7,CARDINAL,1
+third India,GPE,1
+94,CARDINAL,1
+94(70,CARDINAL,1
+94th - min,DATE,1
+94th - minute,TIME,1
+AHM Mustafa Kamal,PERSON,1
+Guaidó,GPE,1
+Hassan Siddiqui,PERSON,1
+Hafiz Saeed 's,PERSON,1
+WebAuthn,GPE,1
+Pakistan Army,ORG,1
+Washington University,ORG,1
+Paris,GPE,1
+Parliamentary Panel,ORG,1
+Pervez Musharraf,PERSON,1
+PewDiePie,ORG,1
+Philip Davidson,PERSON,1
+Porto,GPE,1
+Vishwa Hindu Dal,ORG,1
+Portuguese,NORP,1
+Prince Albert,PERSON,1
+Princess Ubolratana Rajakanya Sirivadhana Varnavadi,PERSON,1
+Vishwa Fernando,ORG,1
+Pulwama,PERSON,1
+Queen Elizabeth,PERSON,1
+Queen Victoria 's,ORG,1
+Virtual Reality ( VR,ORG,1
+Vinod Rai,PERSON,1
+Rai,PERSON,1
+Pakistan Air Force,ORG,1
+Pak Army,ORG,1
+Nathan Coulter - Nile,PERSON,1
+PTI,ORG,1
+New Zealand,GPE,1
+Nicolás Maduro,PERSON,1
+Nicolás Maduro - led Venezuelan,NORP,1
+Noisiel Open,ORG,1
+West Indies,GPE,1
+North Korea 's,GPE,1
+North Korea last year,DATE,1
+November last year,DATE,1
+ODI,ORG,1
+OPPO,ORG,1
+OPPO F11 Pro,PRODUCT,1
+One Delhi,GPE,1
+One Indian,NORP,1
+OnePlus,ORG,1
+OnePlus 6,PRODUCT,1
+OnePlus 6T. OnePlus,ORG,1
+P70,ORG,1
+PSG,ORG,1
+PSG 3 - 1,ORG,1
+Venkaiah Naidu,ORG,1
+Ravindra Jadeja,PERSON,1
+Recep Tayyip Erdoğan,PERSON,1
+Reliance Digital,ORG,1
+Shastri,ORG,1
+US Indo - Pacific Command,ORG,1
+South African,NORP,1
+South Korean,NORP,1
+Southeast Asia,LOC,1
+Squadron,ORG,1
+Tushar Deshpande,PERSON,1
+Sri Lanka 's 32nd,ORDINAL,1
+State Department,ORG,1
+Tushar,PERSON,1
+Super fun evening,TIME,1
+Swedish YouTuber PewDiePie,PERSON,1
+Sydney,GPE,1
+Syed Mushtaq Ali Trophy,PERSON,1
+Tamil Nadu 's,ORG,1
+Turkish,NORP,1
+Trump - Kim,ORG,1
+Three,CARDINAL,1
+Tributes,PRODUCT,1
+Ukraine,GPE,1
+Sergey Fedorchuk,PERSON,1
+Science Museum,ORG,1
+VOOC 3.0,PRODUCT,1
+Vaak,PERSON,1
+VR,PRODUCT,1
+Ritika Sajdeh,PERSON,1
+Ritu,PERSON,1
+Ritu Phogat,PERSON,1
+Robert Palladino,PERSON,1
+VR,ORG,1
+Rohit Sharma 's,PERSON,1
+Roma 4 - 3,ORG,1
+Saudi Arabia,GPE,1
+Royal Family 's,ORG,1
+VAR,ORG,1
+S-400,CARDINAL,1
+S-400,ORG,1
+SA,ORG,1
+Sakshi Dhoni,PERSON,1
+Utd,PERSON,1
+Sanjay Bangar,PERSON,1
+Nauman Ali Khan,PERSON,1
+Naidu,PERSON,1
+Harbhajan,ORG,1
+Jalalabad,GPE,1
+eight,CARDINAL,1
+Japanese,NORP,1
+days,DATE,1
+Jeff Jaffe,PERSON,1
+Jewish,NORP,1
+Jharkhand State Cricket Association,ORG,1
+Juan Guaidó,PERSON,1
+daily,DATE,1
+at least two,CARDINAL,1
+at least April 2017,DATE,1
+Khan,PERSON,1
+Ko Daikhnai Jawaynge ' # DangalGirls #,MONEY,1
+at least 27,CARDINAL,1
+Kong Xuanyou,PERSON,1
+Kriener,PERSON,1
+Kumar,PERSON,1
+LGBT,NORP,1
+Last month,DATE,1
+Last week,DATE,1
+Jamaat - ud - Dawa,PERSON,1
+eight Champions League,ORG,1
+Nagpur,GPE,1
+Jair Bolsonaro,PERSON,1
+Harbhajan Singh,PERSON,1
+TikTok,ORG,1
+Hindi,GPE,1
+Hindi,NORP,1
+Hindi - reading,NORP,1
+hundred,CARDINAL,1
+Huawei Rotating Chairman Guo Ping,WORK_OF_ART,1
+his 1st,DATE,1
+Imran Tahir,PERSON,1
+four months,DATE,1
+first two,CARDINAL,1
+Indo,GPE,1
+first 20,CARDINAL,1
+Instagram,PRODUCT,1
+Instagram for 1st,DATE,1
+Islamabad,GPE,1
+Italian,NORP,1
+J&K,ORG,1
+Jack Dorsey,PERSON,1
+Last year,DATE,1
+almost 110 years,DATE,1
+Lego Fold,PERSON,1
+Lego Fold ',PERSON,1
+Marcus Rashford,PERSON,1
+World Cups,EVENT,1
+Martha McSally,PERSON,1
+Masood Azhar,PERSON,1
+Masood Azhar 's,PERSON,1
+Matthew Hayden,PERSON,1
+World Cup,EVENT,1
+McSally,PERSON,1
+Mike Pence,PERSON,1
+Miller,ORG,1
+Wing,ORG,1
+Wimbledon this year,DATE,1
+Wimbledon,PERSON,1
+Mufti Abdul Rauf,PERSON,1
+Wicketkeeper,GPE,1
+Mumbai Indians,NORP,1
+Murray,PERSON,1
+West Indies,LOC,1
+N Korea,GPE,1
+March Madness ',DATE,1
+March Madness,WORK_OF_ART,1
+"March 7 , 1987",DATE,1
+two days,DATE,1
+a decade,DATE,1
+Level 4 Software Engineers,ORG,1
+Lighthouse,ORG,1
+London,GPE,1
+Lu Kang,PERSON,1
+Yuzvendra Chahal,PERSON,1
+Yuvraj Singh,PERSON,1
+Yuvraj,PERSON,1
+Yuvraj,ORG,1
+"March 7 , 1952",DATE,1
+YouTube,GPE,1
+Maha Vajiralongkorn,PERSON,1
+Mahathir Mohamad,PERSON,1
+Main Apni,PERSON,1
+Yelp,FAC,1
+World Wide Consortium,WORK_OF_ART,1
+Manchester,GPE,1
+Manchester United,ORG,1
+₹2000,PERSON,1
