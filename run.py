@@ -6,6 +6,7 @@ import named_entities
 import normalizer
 import pandas as pd
 import re
+import sentiment
 import stanford
 import sys
 
@@ -62,3 +63,9 @@ if '--named_ents' in flags:
     named_ents = named_entities.parse(news_df['full_text'])
     print('Dataset dumped to: news_named_ents.csv')
     named_ents.to_csv('news_named_ents.csv', index=False, encoding='utf-8')
+
+if '--sentiment' in flags:
+    print('Running Sentiment Analysis')
+    sentiments = sentiment.analyse(news_df['full_text'], list(news_df['news_category']))
+    print('Dataset dumped to: news_sentiment.csv')
+    sentiments.to_csv('news_sentiment.csv', index=False, encoding='utf-8')
